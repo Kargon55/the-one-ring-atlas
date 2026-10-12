@@ -5,21 +5,21 @@
     "desc": "Просьба, знакомство и переговоры",
     "number": "08",
     "nodes": [
-      "P9P7Krkl",
-      "JXgZzO5m",
-      "T058KCZp",
-      "0kCpxGFy",
-      "yjokMfIq",
-      "XsWH6P9U"
+      "council-council",
+      "council-resistance",
+      "council-introduction",
+      "council-interaction",
+      "council-end-of-council",
+      "council-roleplaying-bonuses"
     ]
   },
   "nodes": [
     {
-      "id": "P9P7Krkl",
+      "id": "council-council",
       "section": "council",
       "parts": [
         {
-          "id": "rUqojtB9",
+          "id": "council-council--text-1",
           "text": "Совет должен иметь высокую значимость.\n\nПорядок:\n1. Определение сопротивления.\n2. Знакомство.\n3. Переговоры."
         }
       ],
@@ -28,11 +28,11 @@
       "pages": "104"
     },
     {
-      "id": "JXgZzO5m",
+      "id": "council-resistance",
       "section": "council",
       "parts": [
         {
-          "id": "LqlZFA4z",
+          "id": "council-resistance--text-1",
           "text": "Игроки определяют, чего хотят добиться. На основе этого Хранитель устанавливает сопротивление:\n• 3 — разумная просьба;\n• 6 — смелая просьба;\n• 9 — дерзкая просьба.\nЭто количество необходимых успехов."
         }
       ],
@@ -41,11 +41,11 @@
       "pages": "105"
     },
     {
-      "id": "T058KCZp",
+      "id": "council-introduction",
       "section": "council",
       "parts": [
         {
-          "id": "r1RrElai",
+          "id": "council-introduction--text-1",
           "text": "Выберите представителя и проверьте подходящий навык. При провале длительность Совета равна 3 проверкам; при успехе — 4, плюс 1 за каждый знак успеха."
         }
       ],
@@ -54,11 +54,11 @@
       "pages": "106"
     },
     {
-      "id": "0kCpxGFy",
+      "id": "council-interaction",
       "section": "council",
       "parts": [
         {
-          "id": "s1IW8jHc",
+          "id": "council-interaction--text-1",
           "text": "Хранитель определяет отношение участников Совета: холодное даёт −1к, нейтральное не меняет бросок, дружественное даёт +1к. Во время переговоров успешная проверка даёт 1 успех, а каждый знак успеха — ещё 1."
         }
       ],
@@ -67,11 +67,11 @@
       "pages": "106"
     },
     {
-      "id": "yjokMfIq",
+      "id": "council-end-of-council",
       "section": "council",
       "parts": [
         {
-          "id": "gQwXqYbl",
+          "id": "council-end-of-council--text-1",
           "text": "Успех: набрано необходимое число успехов или больше.\n\nПровал или успех с оговоркой: набраны успехи, но их недостаточно.\n\nКатастрофа: провалены все проверки либо после неудачного Знакомства набранных успехов недостаточно для преодоления сопротивления. По решению Хранителя нехватку одного успеха можно трактовать как успех с оговоркой вместо катастрофы."
         }
       ],
@@ -80,11 +80,11 @@
       "pages": "108"
     },
     {
-      "id": "XsWH6P9U",
+      "id": "council-roleplaying-bonuses",
       "section": "council",
       "parts": [
         {
-          "id": "efgiIJsF",
+          "id": "council-roleplaying-bonuses--text-1",
           "text": "За хорошее ролевое взаимодействие или затрагивание важных для участников Совета тем Хранитель может дать 1к или 2к."
         }
       ],

@@ -1,1696 +1,1653 @@
 [
   {
-    "id": "xI3uo0vL",
-    "a": "G8jjZcYV",
-    "b": "IOlLjtIx",
+    "id": "link-checks-making-rolls--checks-target-number",
+    "a": "checks-making-rolls",
+    "b": "checks-target-number",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "3zJKm79q",
-    "a": "hi7i1C3N",
-    "b": "4nQvEIQE",
+    "id": "link-checks-feat-die--checks-feat-die-special-results",
+    "a": "checks-feat-die",
+    "b": "checks-feat-die-special-results",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "45BxIyIB",
-    "a": "FGjP9n1h",
-    "b": "IOlLjtIx",
-    "start": "arrow",
-    "end": "arrow",
-    "labels": {
-      "FGjP9n1h": "Сила, Сердце и Разум → Броски и проверки · Целевое число"
-    }
-  },
-  {
-    "id": "0WYhYfPc",
-    "a": "XcYk0L80",
-    "b": "xXkEqXRL",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "g1S9rCG2",
-    "a": "XcYk0L80",
-    "b": "o53KDEBE",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "f8BJ6ELV",
-    "a": "hi7i1C3N",
-    "b": "kURqBhn9",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "2fJFpO2S",
-    "a": "o53KDEBE",
-    "b": "lK0vlqDu",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "mLiM8Kx1",
-    "a": "J1UsNHsZ",
-    "b": "yT35XggA",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "PEBfJRMW",
-    "a": "4nQvEIQE",
-    "b": "1xGI7k1d",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "v75pMPfk",
-    "a": "FGjP9n1h",
-    "b": "z7mA2lwC",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "HA7dxcSm",
-    "a": "FGjP9n1h",
-    "b": "UXrTt2lW",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "3UUM4Y8F",
-    "a": "ooqmW0CU",
-    "b": "kURqBhn9",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "Cy81baPk",
-    "a": "ooqmW0CU",
-    "b": "UXrTt2lW",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "dXdXAGKC",
-    "a": "new_combat_skills",
-    "b": "H2o1CaY9",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "Jj06rady",
-    "a": "A6VF7sRT",
-    "b": "J1UsNHsZ",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "MsVYDKnx",
-    "a": "kjfqE1rG",
-    "b": "1xGI7k1d",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "agmoOFxP",
-    "a": "MGwJWJft",
-    "b": "kjfqE1rG",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "jVpuc7LE",
-    "a": "4TOYEF3h",
-    "b": "J1UsNHsZ",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "h56M9GK0",
-    "a": "4TOYEF3h",
-    "b": "yT35XggA",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "qk5FugTI",
-    "a": "z7mA2lwC",
-    "b": "kjfqE1rG",
+    "id": "link-hero-attributes--checks-target-number",
+    "a": "hero-attributes",
+    "b": "checks-target-number",
     "start": "arrow",
     "end": "arrow",
     "labels": {
-      "z7mA2lwC": "Выносливость → Ресурсы и состояния · Выносливость"
+      "hero-attributes": "Сила, Сердце и Разум → Броски и проверки · Целевое число"
     }
   },
   {
-    "id": "BPhzfsFK",
-    "a": "z7mA2lwC",
-    "b": "4TOYEF3h",
+    "id": "link-checks-degrees-of-success--checks-special-successes",
+    "a": "checks-degrees-of-success",
+    "b": "checks-special-successes",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-checks-degrees-of-success--checks-success-die",
+    "a": "checks-degrees-of-success",
+    "b": "checks-success-die",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-checks-feat-die--checks-favoured-and-ill-favoured-rolls",
+    "a": "checks-feat-die",
+    "b": "checks-favoured-and-ill-favoured-rolls",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-checks-success-die--checks-bonus-success-dice",
+    "a": "checks-success-die",
+    "b": "checks-bonus-success-dice",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-checks-inspiration--checks-hope-bonus",
+    "a": "checks-inspiration",
+    "b": "checks-hope-bonus",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-checks-feat-die-special-results--resources-conditions",
+    "a": "checks-feat-die-special-results",
+    "b": "resources-conditions",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-hero-attributes--hero-derived-attributes",
+    "a": "hero-attributes",
+    "b": "hero-derived-attributes",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-hero-attributes--hero-skills",
+    "a": "hero-attributes",
+    "b": "hero-skills",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-hero-favoured-skill--checks-favoured-and-ill-favoured-rolls",
+    "a": "hero-favoured-skill",
+    "b": "checks-favoured-and-ill-favoured-rolls",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-hero-favoured-skill--hero-skills",
+    "a": "hero-favoured-skill",
+    "b": "hero-skills",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-hero-combat-proficiencies--damage-brawling",
+    "a": "hero-combat-proficiencies",
+    "b": "damage-brawling",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-hero-distinctive-features--checks-inspiration",
+    "a": "hero-distinctive-features",
+    "b": "checks-inspiration",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-resources-endurance--resources-conditions",
+    "a": "resources-endurance",
+    "b": "resources-conditions",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-resources-recovering-endurance--resources-endurance",
+    "a": "resources-recovering-endurance",
+    "b": "resources-endurance",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-resources-hope--checks-inspiration",
+    "a": "resources-hope",
+    "b": "checks-inspiration",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-resources-hope--checks-hope-bonus",
+    "a": "resources-hope",
+    "b": "checks-hope-bonus",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-hero-derived-attributes--resources-endurance",
+    "a": "hero-derived-attributes",
+    "b": "resources-endurance",
     "start": "arrow",
     "end": "arrow",
     "labels": {
-      "z7mA2lwC": "Надежда → Ресурсы и состояния · Надежда"
+      "hero-derived-attributes": "Выносливость → Ресурсы и состояния · Выносливость"
     }
   },
   {
-    "id": "8Uvx9X4g",
-    "a": "4TOYEF3h",
-    "b": "1xGI7k1d",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "hL8nrls8",
-    "a": "Qpv5oj9L",
-    "b": "new_rest",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "Fwh4UHo2",
-    "a": "Qpv5oj9L",
-    "b": "4TOYEF3h",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "7H5A5e90",
-    "a": "UXrTt2lW",
-    "b": "uSzItYP0",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "Xyqcy6XA",
-    "a": "new_combat_skills",
-    "b": "iQpO6o6O",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "QvSGdLgc",
-    "a": "iQpO6o6O",
-    "b": "bt2WxY3G",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "0KpwQ4Rh",
-    "a": "gVwdNf0n",
-    "b": "yTeGQ2Ru",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "VNnRqpQO",
-    "a": "4iaoPg7jyedAgq6Bg9Ucq",
-    "b": "i3cB4RGc",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "NXkqqeqL",
-    "a": "i3cB4RGc",
-    "b": "e9rMhkTq",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "uOOyCjYy",
-    "a": "fTSnoJQY",
-    "b": "QkZh2Hsg",
-    "start": "arrow",
-    "end": "arrow",
-    "hidden": true
-  },
-  {
-    "id": "hKI3O0Bc",
-    "a": "fTSnoJQY",
-    "b": "3fPDhhkV",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "WZp9EM8A",
-    "a": "3fPDhhkV",
-    "b": "Otpr5WAz",
-    "start": "arrow",
-    "end": "arrow",
-    "hidden": true
-  },
-  {
-    "id": "hszd1YYt",
-    "a": "fTSnoJQY",
-    "b": "hoyVQDQ9",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "HQpRMOAI",
-    "a": "fTSnoJQY",
-    "b": "pTZfvCk4",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "X9jEwXlN",
-    "a": "FGjP9n1h",
-    "b": "OjPDsYr0",
+    "id": "link-hero-derived-attributes--resources-hope",
+    "a": "hero-derived-attributes",
+    "b": "resources-hope",
     "start": "arrow",
     "end": "arrow",
     "labels": {
-      "FGjP9n1h": "Сила → Атаки и ранения · Атака"
+      "hero-derived-attributes": "Надежда → Ресурсы и состояния · Надежда"
     }
   },
   {
-    "id": "VfnPpMDA",
-    "a": "OjPDsYr0",
-    "b": "pTZfvCk4",
+    "id": "link-resources-hope--resources-conditions",
+    "a": "resources-hope",
+    "b": "resources-conditions",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "5waFi5M1",
-    "a": "FNfZyWKO",
-    "b": "OjPDsYr0",
+    "id": "link-resources-recovering-hope--journey-resting",
+    "a": "resources-recovering-hope",
+    "b": "journey-resting",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "GKryLEoP",
-    "a": "NoLRRWjX",
-    "b": "OjPDsYr0",
+    "id": "link-resources-recovering-hope--resources-hope",
+    "a": "resources-recovering-hope",
+    "b": "resources-hope",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "ysZeooCJ",
-    "a": "WpYHelZN",
-    "b": "OjPDsYr0",
+    "id": "link-hero-skills--hero-skill-list",
+    "a": "hero-skills",
+    "b": "hero-skill-list",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "XxXG67N9",
-    "a": "WpYHelZN",
-    "b": "clZg0BDi",
+    "id": "link-hero-combat-proficiencies--hero-combat-proficiencies-and-weapons",
+    "a": "hero-combat-proficiencies",
+    "b": "hero-combat-proficiencies-and-weapons",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "Yc4f5lUB",
-    "a": "MGwJWJft",
-    "b": "clZg0BDi",
+    "id": "link-hero-combat-proficiencies-and-weapons--hero-brawling-weapons",
+    "a": "hero-combat-proficiencies-and-weapons",
+    "b": "hero-brawling-weapons",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "mXcHMn6a",
-    "a": "OjPDsYr0",
-    "b": "AJU7Mz3P",
+    "id": "link-hero-rewards--hero-valour",
+    "a": "hero-rewards",
+    "b": "hero-valour",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "RJNsG8LA",
-    "a": "AJU7Mz3P",
-    "b": "pTZfvCk4",
+    "id": "link-hero-wisdom--hero-virtues",
+    "a": "hero-wisdom",
+    "b": "hero-virtues",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "1y5gdgN6",
-    "a": "pTZfvCk4",
-    "b": "Otpr5WAz",
+    "id": "link-hero-virtues--hero-cultural-virtues",
+    "a": "hero-virtues",
+    "b": "hero-cultural-virtues",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "m4ppE79x",
-    "a": "1d97umbn",
-    "b": "ZIDAreR3",
-    "start": "arrow",
-    "end": "arrow",
-    "hidden": true
-  },
-  {
-    "id": "JBwmdAF7",
-    "a": "pTZfvCk4",
-    "b": "G9qJAFnZ",
+    "id": "link-combat-close-quarters-rounds--combat-stances",
+    "a": "combat-close-quarters-rounds",
+    "b": "combat-stances",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "DmJagMCk",
-    "a": "P9P7Krkl",
-    "b": "JXgZzO5m",
+    "id": "link-combat-close-quarters-rounds--combat-engagement",
+    "a": "combat-close-quarters-rounds",
+    "b": "combat-engagement",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "75ZGdTiF",
-    "a": "P9P7Krkl",
-    "b": "T058KCZp",
+    "id": "link-combat-close-quarters-rounds--combat-combat-actions",
+    "a": "combat-close-quarters-rounds",
+    "b": "combat-combat-actions",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "RssG8uGa",
-    "a": "P9P7Krkl",
-    "b": "0kCpxGFy",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "uwpCmUCB",
-    "a": "yjokMfIq",
-    "b": "0kCpxGFy",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "yyCNlu1x",
-    "a": "UXrTt2lW",
-    "b": "0kCpxGFy",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "DU11c4jA",
-    "a": "new_combat_skills",
-    "b": "1d97umbn",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "yT9C5Cos",
-    "a": "OjPDsYr0",
-    "b": "new_combat_skills",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "LIZX4tsE",
-    "a": "OjPDsYr0",
-    "b": "H2o1CaY9",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "uN6PEApo",
-    "a": "IKifqDVX",
-    "b": "cvKmzIPk",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "kXfCXIDH",
-    "a": "KCwmGGFa",
-    "b": "IKifqDVX",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "EnEnHfwZ",
-    "a": "IKifqDVX",
-    "b": "n9SCpkSL",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "ggpCxxPQ",
-    "a": "SdjXV4Rg",
-    "b": "HGdWKAjd",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "7H0ScKrj",
-    "a": "SdjXV4Rg",
-    "b": "CrCLTTSA",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "GuHaJdyB",
-    "a": "SdjXV4Rg",
-    "b": "WSZuQBgl",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "fvxC0VtA",
-    "a": "CrCLTTSA",
-    "b": "UXrTt2lW",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "SRQgoJ6a",
-    "a": "CrCLTTSA",
-    "b": "7szGboh9",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "gjBER2eQ",
-    "a": "155i8T3i",
-    "b": "qudBqT4T",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "GwMiq4N0",
-    "a": "waZYle03",
-    "b": "qudBqT4T",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "n2SmNTcf",
-    "a": "65oGq573",
-    "b": "yTeGQ2Ru",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "Z1ivAkCO",
-    "a": "new_combat_skills",
-    "b": "65oGq573",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "XYxGpR8Q",
-    "a": "qudBqT4T",
-    "b": "65oGq573",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "4sJAQAA3",
-    "a": "FQgkZRBp",
-    "b": "qudBqT4T",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "Cqt5dfoY",
-    "a": "z7mA2lwC",
-    "b": "FQgkZRBp",
-    "start": "arrow",
-    "end": "arrow",
-    "hidden": true,
-    "labels": {
-      "z7mA2lwC": "Надежда → Фаза Братства · Йоль"
-    }
-  },
-  {
-    "id": "2VrAX9pn",
-    "a": "yTeGQ2Ru",
-    "b": "z7mA2lwC",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "0VyOcVUn",
-    "a": "4iaoPg7jyedAgq6Bg9Ucq",
-    "b": "z7mA2lwC",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "SNTV9P1A",
-    "a": "gITUE0ow",
-    "b": "qudBqT4T",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "vzF0gZl4",
-    "a": "qudBqT4T",
-    "b": "TClkt8L6",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "szMkMPVU",
-    "a": "N8Cye3Rw",
-    "b": "gVwdNf0n",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "PWHUsU1Z",
-    "a": "N8Cye3Rw",
-    "b": "i3cB4RGc",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "AyVTWjb3",
-    "a": "Zm6NVzT0",
-    "b": "N8Cye3Rw",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "UpaLVFJx",
-    "a": "FGjP9n1h",
-    "b": "Zm6NVzT0",
+    "id": "link-hero-attributes--damage-resolving-attacks",
+    "a": "hero-attributes",
+    "b": "damage-resolving-attacks",
     "start": "arrow",
     "end": "arrow",
     "labels": {
-      "FGjP9n1h": "Сила, Сердце и Разум → Создание героя · Культура"
+      "hero-attributes": "Сила → Атаки и ранения · Атака"
     }
   },
   {
-    "id": "pUHWTxpr",
-    "a": "Zm6NVzT0",
-    "b": "A6VF7sRT",
+    "id": "link-damage-resolving-attacks--combat-combat-actions",
+    "a": "damage-resolving-attacks",
+    "b": "combat-combat-actions",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "DROPF0pL",
-    "a": "N8Cye3Rw",
-    "b": "Ay7ANsR9",
+    "id": "link-damage-knockback--damage-resolving-attacks",
+    "a": "damage-knockback",
+    "b": "damage-resolving-attacks",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "njtTcNCb",
-    "a": "9jEOH49mp834xDMhXckp-",
-    "b": "lK0vlqDu",
+    "id": "link-damage-special-damage--damage-resolving-attacks",
+    "a": "damage-special-damage",
+    "b": "damage-resolving-attacks",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "TfxgwZ9p",
-    "a": "9jEOH49mp834xDMhXckp-",
-    "b": "NJ5WkVnrKRziv83CZ5a5S",
+    "id": "link-damage-piercing-blow--damage-resolving-attacks",
+    "a": "damage-piercing-blow",
+    "b": "damage-resolving-attacks",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "Qxfiigww",
-    "a": "NJ5WkVnrKRziv83CZ5a5S",
-    "b": "jvZq962a",
+    "id": "link-damage-piercing-blow--damage-wounds",
+    "a": "damage-piercing-blow",
+    "b": "damage-wounds",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "Qz94q99k",
-    "a": "N8Cye3Rw",
-    "b": "9jEOH49mp834xDMhXckp-",
+    "id": "link-resources-recovering-endurance--damage-wounds",
+    "a": "resources-recovering-endurance",
+    "b": "damage-wounds",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "IuJTchCY",
-    "a": "9jEOH49mp834xDMhXckp-",
-    "b": "jvZq962a",
+    "id": "link-damage-resolving-attacks--damage-complications-and-advantages",
+    "a": "damage-resolving-attacks",
+    "b": "damage-complications-and-advantages",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "1m62DXEW",
-    "a": "pZYrdar2",
-    "b": "kKL4N8Y3",
+    "id": "link-damage-complications-and-advantages--combat-combat-actions",
+    "a": "damage-complications-and-advantages",
+    "b": "combat-combat-actions",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "FVHpkJ93",
-    "a": "kKL4N8Y3",
-    "b": "N8Cye3Rw",
+    "id": "link-combat-combat-actions--combat-combat-tasks",
+    "a": "combat-combat-actions",
+    "b": "combat-combat-tasks",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "D7bU0OOX",
-    "a": "kKL4N8Y3",
-    "b": "80REWUzP",
+    "id": "link-combat-combat-actions--combat-action-examples",
+    "a": "combat-combat-actions",
+    "b": "combat-action-examples",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "hsxoxVN7",
-    "a": "kKL4N8Y3",
-    "b": "XgmlAOcd",
+    "id": "link-council-council--council-resistance",
+    "a": "council-council",
+    "b": "council-resistance",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "3cpgjMg9",
-    "a": "Qpv5oj9L",
-    "b": "XgmlAOcd",
+    "id": "link-council-council--council-introduction",
+    "a": "council-council",
+    "b": "council-introduction",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "5uuKFXCT",
-    "a": "kKL4N8Y3",
-    "b": "8rwchxSn",
+    "id": "link-council-council--council-interaction",
+    "a": "council-council",
+    "b": "council-interaction",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "lBNncNkM",
-    "a": "8rwchxSn",
-    "b": "XmoeTj86",
+    "id": "link-council-end-of-council--council-interaction",
+    "a": "council-end-of-council",
+    "b": "council-interaction",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "U5ei1qYO",
-    "a": "xBZZJ1Wj",
-    "b": "FQgkZRBp",
+    "id": "link-hero-skills--council-interaction",
+    "a": "hero-skills",
+    "b": "council-interaction",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "9jyuvyU5",
-    "a": "xBZZJ1Wj",
-    "b": "65oGq573",
+    "id": "link-hero-combat-proficiencies--combat-combat",
+    "a": "hero-combat-proficiencies",
+    "b": "combat-combat",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "EIGY5NoO",
-    "a": "QO8tpWB7",
-    "b": "xBZZJ1Wj",
+    "id": "link-damage-resolving-attacks--hero-combat-proficiencies",
+    "a": "damage-resolving-attacks",
+    "b": "hero-combat-proficiencies",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "gbN36mKa",
-    "a": "A6VF7sRT",
-    "b": "e7hrgNxP",
+    "id": "link-damage-resolving-attacks--damage-brawling",
+    "a": "damage-resolving-attacks",
+    "b": "damage-brawling",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "MwZKqNps",
-    "a": "e7hrgNxP",
-    "b": "FQgkZRBp",
+    "id": "link-journey-journeys--journey-journey-length",
+    "a": "journey-journeys",
+    "b": "journey-journey-length",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "jaA6Zrst",
-    "a": "kjfqE1rG",
-    "b": "OVAag9d0",
+    "id": "link-journey-forced-march--journey-journeys",
+    "a": "journey-forced-march",
+    "b": "journey-journeys",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "kdE7JLPo",
-    "a": "WSZuQBgl",
-    "b": "OVAag9d0",
+    "id": "link-journey-journeys--journey-perilous-areas",
+    "a": "journey-journeys",
+    "b": "journey-perilous-areas",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "hPKq0YFF",
-    "a": "ZU5N5jLq",
-    "b": "G8jjZcYV",
+    "id": "link-journey-journey-sequence--journey-journey-path",
+    "a": "journey-journey-sequence",
+    "b": "journey-journey-path",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "Aqr3fF7r",
-    "a": "G8jjZcYV",
-    "b": "aM6zvGTz",
+    "id": "link-journey-journey-sequence--journey-marching-tests",
+    "a": "journey-journey-sequence",
+    "b": "journey-marching-tests",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "XzMddVMW",
-    "a": "lXS63zDO",
-    "b": "ZU5N5jLq",
+    "id": "link-journey-journey-sequence--journey-ending-journey",
+    "a": "journey-journey-sequence",
+    "b": "journey-ending-journey",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "wJMQHcFN",
-    "a": "lXS63zDO",
-    "b": "aM6zvGTz",
+    "id": "link-journey-marching-tests--hero-skills",
+    "a": "journey-marching-tests",
+    "b": "hero-skills",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "PWY2BujV",
-    "a": "lXS63zDO",
-    "b": "IwZZF7R1",
+    "id": "link-journey-marching-tests--journey-journey-event-resolution",
+    "a": "journey-marching-tests",
+    "b": "journey-journey-event-resolution",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "0Rs7B45S",
-    "a": "IwZZF7R1",
-    "b": "kURqBhn9",
+    "id": "link-fellowship-phase-duration--fellowship-fellowship-phase",
+    "a": "fellowship-phase-duration",
+    "b": "fellowship-fellowship-phase",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "pKQVkb5s",
-    "a": "Zm6NVzT0",
-    "b": "ooqmW0CU",
+    "id": "link-fellowship-choose-location--fellowship-fellowship-phase",
+    "a": "fellowship-choose-location",
+    "b": "fellowship-fellowship-phase",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "Vfu1HEnh",
-    "a": "ooqmW0CU",
-    "b": "N8Cye3Rw",
+    "id": "link-fellowship-advancement--hero-valour",
+    "a": "fellowship-advancement",
+    "b": "hero-valour",
     "start": "arrow",
-    "end": "arrow",
-    "hidden": true
-  },
-  {
-    "id": "sp2NTbl8",
-    "a": "lXS63zDO",
-    "b": "j0rHRxpC",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "Ayo1oDPK",
-    "a": "lK0vlqDu",
-    "b": "j0rHRxpC",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "ZDBMz8n8",
-    "a": "1jqaSwE1",
-    "b": "lXS63zDO",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "eUlD3ikH",
-    "a": "yT35XggA",
-    "b": "XmoeTj86",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "i1vzdceM",
-    "a": "1jqaSwE1",
-    "b": "i7EzUszr",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "srtWi5oi",
-    "a": "i7EzUszr",
-    "b": "yTeGQ2Ru",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "udMzNKTb",
-    "a": "kURqBhn9",
-    "b": "ClqRxdWb",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "E8HglNov",
-    "a": "ClqRxdWb",
-    "b": "1xGI7k1d",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "5TC4oHCF",
-    "a": "ClqRxdWb",
-    "b": "i7EzUszr",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "nYE7EYo6",
-    "a": "MgzfvKYs",
-    "b": "FQgkZRBp",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "0SMZqwrB",
-    "a": "i7EzUszr",
-    "b": "MgzfvKYs",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "GbSoZiaX",
-    "a": "1fjYbZYY",
-    "b": "1jqaSwE1",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "K4ZAvXIX",
-    "a": "ThCejAWr",
-    "b": "1jqaSwE1",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "n1dtKuAA",
-    "a": "ohlxXHvL",
-    "b": "1jqaSwE1",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "7RzkH5uH",
-    "a": "1jqaSwE1",
-    "b": "Z799M3va",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "G9LjWYx3",
-    "a": "441HpfrG",
-    "b": "MgzfvKYs",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "oZCnQWlo",
-    "a": "441HpfrG",
-    "b": "T7NrYN6c",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "uvOcyTE9",
-    "a": "38tfzLIU",
-    "b": "aiaYdWAO",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "wWvvzlYB",
-    "a": "Ckg8bfJd",
-    "b": "aiaYdWAO",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "rvYlg3Xw",
-    "a": "aiaYdWAO",
-    "b": "4uScZRJk",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "Nmltctja",
-    "a": "38tfzLIU",
-    "b": "4uScZRJk",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "LhOCAUzy",
-    "a": "aiaYdWAO",
-    "b": "gXqe7lGv",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "W5ANQxKE",
-    "a": "OjPDsYr0",
-    "b": "gXqe7lGv",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "4FeJvFr9",
-    "a": "aiaYdWAO",
-    "b": "viNFOTCM",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "yNZ71aTv",
-    "a": "WpYHelZN",
-    "b": "viNFOTCM",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "V2msYSiY",
-    "a": "38tfzLIU",
-    "b": "viNFOTCM",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "s2qN2H45",
-    "a": "HxXwN2YM",
-    "b": "aiaYdWAO",
-    "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "HuWF0vsn",
-    "a": "7MkS8gz0",
-    "b": "aiaYdWAO",
+    "id": "link-hero-combat-proficiencies--fellowship-advancement",
+    "a": "hero-combat-proficiencies",
+    "b": "fellowship-advancement",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "MPaWi8Kn",
-    "a": "obibhnYS",
-    "b": "aiaYdWAO",
+    "id": "link-fellowship-fellowship-phase--fellowship-advancement",
+    "a": "fellowship-fellowship-phase",
+    "b": "fellowship-advancement",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "fL5Aea39",
-    "a": "cbzeiMlv",
-    "b": "JXKKcVWe",
+    "id": "link-fellowship-yule--fellowship-fellowship-phase",
+    "a": "fellowship-yule",
+    "b": "fellowship-fellowship-phase",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "ertruech",
-    "a": "cbzeiMlv",
-    "b": "JDoVzpTk",
+    "id": "link-hero-valour--hero-derived-attributes",
+    "a": "hero-valour",
+    "b": "hero-derived-attributes",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "KpOlXbsT",
-    "a": "cbzeiMlv",
-    "b": "FB0unXZC",
+    "id": "link-hero-wisdom--hero-derived-attributes",
+    "a": "hero-wisdom",
+    "b": "hero-derived-attributes",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "tQIuCwJd",
-    "a": "2t5Sf7Dl",
-    "b": "mw3r9Df7",
+    "id": "link-fellowship-useful-item-changes--fellowship-fellowship-phase",
+    "a": "fellowship-useful-item-changes",
+    "b": "fellowship-fellowship-phase",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "Xi5Z0DMg",
-    "a": "FB0unXZC",
-    "b": "mw3r9Df7",
+    "id": "link-fellowship-fellowship-phase--fellowship-undertakings",
+    "a": "fellowship-fellowship-phase",
+    "b": "fellowship-undertakings",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "FrxVSCcV",
-    "a": "FB0unXZC",
-    "b": "PgP7n1du",
+    "id": "link-creation-character-creation--hero-rewards",
+    "a": "creation-character-creation",
+    "b": "hero-rewards",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "yqZmKw89",
-    "a": "Odk6dwa0",
-    "b": "IthSr4oj",
+    "id": "link-creation-character-creation--hero-virtues",
+    "a": "creation-character-creation",
+    "b": "hero-virtues",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "hr6xne5V",
-    "a": "Odk6dwa0",
-    "b": "tYvCniJj",
+    "id": "link-creation-heroic-culture--creation-character-creation",
+    "a": "creation-heroic-culture",
+    "b": "creation-character-creation",
     "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "GUWQeQ5F",
-    "a": "qudBqT4T",
-    "b": "tYvCniJj",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "XmPOlSxU",
-    "a": "2t5Sf7Dl",
-    "b": "tYvCniJj",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "6HUjRFCD",
-    "a": "1jqaSwE1",
-    "b": "tYvCniJj",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "vHzmtomi",
-    "a": "cbzeiMlv",
-    "b": "0JdqAWQa",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "Y8b0xx2m",
-    "a": "PgP7n1du",
-    "b": "31pT5PZP",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "SkPB2jZ9",
-    "a": "PgP7n1du",
-    "b": "0zSpsVlu",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "0qREHFQD",
-    "a": "PgP7n1du",
-    "b": "rW3MBeZF",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "okpA5HDC",
-    "a": "0zSpsVlu",
-    "b": "rW3MBeZF",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "fYOp4O75",
-    "a": "65oGq573",
-    "b": "gVwdNf0n",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "YsYXE2m9",
-    "a": "65oGq573",
-    "b": "i3cB4RGc",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "P5FRyP9q",
-    "a": "PgP7n1du",
-    "b": "1IlMNimk",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "Qzb3LgqJ",
-    "a": "rW3MBeZF",
-    "b": "1IlMNimk",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "992k7UmF",
-    "a": "PgP7n1du",
-    "b": "8tOTMXPS",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "hRfMoZ6y",
-    "a": "JDoVzpTk",
-    "b": "ikIavgoY",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "fxBY6hFB",
-    "a": "H2o1CaY9",
-    "b": "bt2WxY3G",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "6q6dS6es",
-    "a": "lXS63zDO",
-    "b": "xBZZJ1Wj",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "yRMfTosv",
-    "a": "lXS63zDO",
-    "b": "QO8tpWB7",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "html-piercing-might",
-    "a": "WpYHelZN",
-    "b": "38tfzLIU",
-    "start": null,
-    "end": "arrow"
-  },
-  {
-    "id": "html-check-pool",
-    "a": "G8jjZcYV",
-    "b": "new_base_pool",
-    "start": null,
-    "end": "arrow"
-  },
-  {
-    "id": "html-pool-test",
-    "a": "new_base_pool",
-    "b": "hi7i1C3N",
-    "start": null,
-    "end": "arrow"
-  },
-  {
-    "id": "html-pool-success",
-    "a": "new_base_pool",
-    "b": "o53KDEBE",
-    "start": null,
-    "end": "arrow"
-  },
-  {
-    "id": "html-hope-success",
-    "a": "yT35XggA",
-    "b": "o53KDEBE",
-    "start": null,
-    "end": "arrow"
-  },
-  {
-    "id": "html-check-magic",
-    "a": "G8jjZcYV",
-    "b": "2t5Sf7Dl",
-    "start": null,
-    "end": "arrow"
-  },
-  {
-    "id": "html-success-penalty",
-    "a": "o53KDEBE",
-    "b": "gu1votkJ",
-    "start": null,
-    "end": "arrow"
-  },
-  {
-    "id": "html-check-retry",
-    "a": "G8jjZcYV",
-    "b": "SWf7Jvwo",
-    "start": null,
-    "end": "arrow"
-  },
-  {
-    "id": "html-characteristics-combat-skills",
-    "a": "FGjP9n1h",
-    "b": "new_combat_skills",
-    "start": "arrow",
-    "end": "arrow"
-  },
-  {
-    "id": "html-characteristics-yule",
-    "a": "FGjP9n1h",
-    "b": "FQgkZRBp",
-    "start": null,
-    "end": "arrow",
-    "labels": {
-      "FGjP9n1h": "Разум → Фаза Братства · Йоль"
-    }
-  },
-  {
-    "id": "html-parry-attack",
-    "a": "z7mA2lwC",
-    "b": "OjPDsYr0",
-    "start": null,
-    "end": "arrow",
-    "labels": {
-      "z7mA2lwC": "Парирование → Атаки и ранения · Атака"
-    }
-  },
-  {
-    "id": "html-wisdom-shadow",
-    "a": "4iaoPg7jyedAgq6Bg9Ucq",
-    "b": "i7EzUszr",
-    "start": null,
-    "end": "arrow",
-    "labels": {
-      "4iaoPg7jyedAgq6Bg9Ucq": "Мудрость → Тень · Проверка Тени"
-    }
-  },
-  {
-    "id": "html-wisdom-improve",
-    "a": "4iaoPg7jyedAgq6Bg9Ucq",
-    "b": "65oGq573",
-    "start": null,
-    "end": "arrow",
-    "labels": {
-      "4iaoPg7jyedAgq6Bg9Ucq": "Мудрость → Фаза Братства · Улучшение параметров"
-    }
-  },
-  {
-    "id": "html-skills-improve",
-    "a": "UXrTt2lW",
-    "b": "65oGq573",
-    "start": null,
     "end": "arrow"
   },
   {
-    "id": "html-rewards-famous-gear",
-    "a": "gVwdNf0n",
-    "b": "PgP7n1du",
+    "id": "link-hero-attributes--creation-heroic-culture",
+    "a": "hero-attributes",
+    "b": "creation-heroic-culture",
     "start": "arrow",
     "end": "arrow",
     "labels": {
-      "gVwdNf0n": "Награды → Сокровища · Знаменитое оружие и броня"
+      "hero-attributes": "Сила, Сердце и Разум → Создание героя · Культура"
     }
   },
   {
-    "id": "html-creation-calling",
-    "a": "N8Cye3Rw",
-    "b": "new_calling",
+    "id": "link-creation-heroic-culture--hero-distinctive-features",
+    "a": "creation-heroic-culture",
+    "b": "hero-distinctive-features",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-creation-character-creation--creation-previous-experience",
+    "a": "creation-character-creation",
+    "b": "creation-previous-experience",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-creation-starting-gear--checks-bonus-success-dice",
+    "a": "creation-starting-gear",
+    "b": "checks-bonus-success-dice",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-creation-starting-gear--creation-standard-of-living",
+    "a": "creation-starting-gear",
+    "b": "creation-standard-of-living",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-creation-standard-of-living--creation-ponies-and-horses",
+    "a": "creation-standard-of-living",
+    "b": "creation-ponies-and-horses",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-creation-character-creation--creation-starting-gear",
+    "a": "creation-character-creation",
+    "b": "creation-starting-gear",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-creation-starting-gear--creation-ponies-and-horses",
+    "a": "creation-starting-gear",
+    "b": "creation-ponies-and-horses",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-company-patron--company-company",
+    "a": "company-patron",
+    "b": "company-company",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-company-company--creation-character-creation",
+    "a": "company-company",
+    "b": "creation-character-creation",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-company-company--company-safe-haven",
+    "a": "company-company",
+    "b": "company-safe-haven",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-company-company--company-fellowship-rating",
+    "a": "company-company",
+    "b": "company-fellowship-rating",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-resources-recovering-hope--company-fellowship-rating",
+    "a": "resources-recovering-hope",
+    "b": "company-fellowship-rating",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-company-company--company-fellowship-focus",
+    "a": "company-company",
+    "b": "company-fellowship-focus",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-company-fellowship-focus--checks-support",
+    "a": "company-fellowship-focus",
+    "b": "checks-support",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-keeper-experience--fellowship-yule",
+    "a": "keeper-experience",
+    "b": "fellowship-yule",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-keeper-experience--fellowship-advancement",
+    "a": "keeper-experience",
+    "b": "fellowship-advancement",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-keeper-session-length--keeper-experience",
+    "a": "keeper-session-length",
+    "b": "keeper-experience",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-hero-distinctive-features--fellowship-change-distinctive-feature",
+    "a": "hero-distinctive-features",
+    "b": "fellowship-change-distinctive-feature",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-fellowship-change-distinctive-feature--fellowship-yule",
+    "a": "fellowship-change-distinctive-feature",
+    "b": "fellowship-yule",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-resources-endurance--journey-travel-fatigue",
+    "a": "resources-endurance",
+    "b": "journey-travel-fatigue",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-journey-ending-journey--journey-travel-fatigue",
+    "a": "journey-ending-journey",
+    "b": "journey-travel-fatigue",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-keeper-consequences-of-failure--checks-making-rolls",
+    "a": "keeper-consequences-of-failure",
+    "b": "checks-making-rolls",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-checks-making-rolls--keeper-skill-endeavour",
+    "a": "checks-making-rolls",
+    "b": "keeper-skill-endeavour",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-keeper-loremaster--keeper-consequences-of-failure",
+    "a": "keeper-loremaster",
+    "b": "keeper-consequences-of-failure",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-keeper-loremaster--keeper-skill-endeavour",
+    "a": "keeper-loremaster",
+    "b": "keeper-skill-endeavour",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-keeper-loremaster--keeper-sources-of-injury",
+    "a": "keeper-loremaster",
+    "b": "keeper-sources-of-injury",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-keeper-sources-of-injury--checks-favoured-and-ill-favoured-rolls",
+    "a": "keeper-sources-of-injury",
+    "b": "checks-favoured-and-ill-favoured-rolls",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-creation-heroic-culture--hero-favoured-skill",
+    "a": "creation-heroic-culture",
+    "b": "hero-favoured-skill",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-keeper-loremaster--keeper-loremaster-characters",
+    "a": "keeper-loremaster",
+    "b": "keeper-loremaster-characters",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-checks-bonus-success-dice--keeper-loremaster-characters",
+    "a": "checks-bonus-success-dice",
+    "b": "keeper-loremaster-characters",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-shadow-shadow-points--keeper-loremaster",
+    "a": "shadow-shadow-points",
+    "b": "keeper-loremaster",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-checks-hope-bonus--checks-support",
+    "a": "checks-hope-bonus",
+    "b": "checks-support",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-shadow-shadow-points--shadow-shadow-test",
+    "a": "shadow-shadow-points",
+    "b": "shadow-shadow-test",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-shadow-shadow-test--hero-valour",
+    "a": "shadow-shadow-test",
+    "b": "hero-valour",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-checks-favoured-and-ill-favoured-rolls--shadow-shadow-consequences",
+    "a": "checks-favoured-and-ill-favoured-rolls",
+    "b": "shadow-shadow-consequences",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-shadow-shadow-consequences--resources-conditions",
+    "a": "shadow-shadow-consequences",
+    "b": "resources-conditions",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-shadow-shadow-consequences--shadow-shadow-test",
+    "a": "shadow-shadow-consequences",
+    "b": "shadow-shadow-test",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-shadow-harden-will--fellowship-yule",
+    "a": "shadow-harden-will",
+    "b": "fellowship-yule",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-shadow-shadow-test--shadow-harden-will",
+    "a": "shadow-shadow-test",
+    "b": "shadow-harden-will",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-shadow-dread--shadow-shadow-points",
+    "a": "shadow-dread",
+    "b": "shadow-shadow-points",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-shadow-greed--shadow-shadow-points",
+    "a": "shadow-greed",
+    "b": "shadow-shadow-points",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-shadow-misdeeds--shadow-shadow-points",
+    "a": "shadow-misdeeds",
+    "b": "shadow-shadow-points",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-shadow-shadow-points--shadow-sorcery",
+    "a": "shadow-shadow-points",
+    "b": "shadow-sorcery",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-shadow-bout-of-madness--shadow-harden-will",
+    "a": "shadow-bout-of-madness",
+    "b": "shadow-harden-will",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-shadow-bout-of-madness--shadow-shadow-path",
+    "a": "shadow-bout-of-madness",
+    "b": "shadow-shadow-path",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-enemies-might-and-endurance--enemies-adversaries",
+    "a": "enemies-might-and-endurance",
+    "b": "enemies-adversaries",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-enemies-attribute-level--enemies-adversaries",
+    "a": "enemies-attribute-level",
+    "b": "enemies-adversaries",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-enemies-adversaries--enemies-hate-and-resolve",
+    "a": "enemies-adversaries",
+    "b": "enemies-hate-and-resolve",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-enemies-might-and-endurance--enemies-hate-and-resolve",
+    "a": "enemies-might-and-endurance",
+    "b": "enemies-hate-and-resolve",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-enemies-adversaries--enemies-parry",
+    "a": "enemies-adversaries",
+    "b": "enemies-parry",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-damage-resolving-attacks--enemies-parry",
+    "a": "damage-resolving-attacks",
+    "b": "enemies-parry",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-enemies-adversaries--enemies-armour",
+    "a": "enemies-adversaries",
+    "b": "enemies-armour",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-damage-piercing-blow--enemies-armour",
+    "a": "damage-piercing-blow",
+    "b": "enemies-armour",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-enemies-might-and-endurance--enemies-armour",
+    "a": "enemies-might-and-endurance",
+    "b": "enemies-armour",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-enemies-combat-proficiencies--enemies-adversaries",
+    "a": "enemies-combat-proficiencies",
+    "b": "enemies-adversaries",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-enemies-special-damage--enemies-adversaries",
+    "a": "enemies-special-damage",
+    "b": "enemies-adversaries",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-enemies-fell-abilities--enemies-adversaries",
+    "a": "enemies-fell-abilities",
+    "b": "enemies-adversaries",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-treasure-hoards--treasure-carrying-treasure",
+    "a": "treasure-hoards",
+    "b": "treasure-carrying-treasure",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-treasure-hoards--treasure-finding-magical-treasure",
+    "a": "treasure-hoards",
+    "b": "treasure-finding-magical-treasure",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-treasure-hoards--treasure-treasure-index",
+    "a": "treasure-hoards",
+    "b": "treasure-treasure-index",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-checks-magical-success--treasure-marvellous-artefacts-and-wondrous-items",
+    "a": "checks-magical-success",
+    "b": "treasure-marvellous-artefacts-and-wondrous-items",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-treasure-treasure-index--treasure-marvellous-artefacts-and-wondrous-items",
+    "a": "treasure-treasure-index",
+    "b": "treasure-marvellous-artefacts-and-wondrous-items",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-treasure-treasure-index--treasure-creating-famous-weapons-and-armour",
+    "a": "treasure-treasure-index",
+    "b": "treasure-creating-famous-weapons-and-armour",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-eye-eye-awareness--eye-starting-eye-awareness",
+    "a": "eye-eye-awareness",
+    "b": "eye-starting-eye-awareness",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-eye-eye-awareness--eye-increasing-eye-awareness",
+    "a": "eye-eye-awareness",
+    "b": "eye-increasing-eye-awareness",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-fellowship-fellowship-phase--eye-increasing-eye-awareness",
+    "a": "fellowship-fellowship-phase",
+    "b": "eye-increasing-eye-awareness",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-checks-magical-success--eye-increasing-eye-awareness",
+    "a": "checks-magical-success",
+    "b": "eye-increasing-eye-awareness",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-shadow-shadow-points--eye-increasing-eye-awareness",
+    "a": "shadow-shadow-points",
+    "b": "eye-increasing-eye-awareness",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-treasure-hoards--treasure-transporting-treasure",
+    "a": "treasure-hoards",
+    "b": "treasure-transporting-treasure",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-treasure-creating-famous-weapons-and-armour--treasure-item-type",
+    "a": "treasure-creating-famous-weapons-and-armour",
+    "b": "treasure-item-type",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-treasure-creating-famous-weapons-and-armour--treasure-craftsmanship",
+    "a": "treasure-creating-famous-weapons-and-armour",
+    "b": "treasure-craftsmanship",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-treasure-creating-famous-weapons-and-armour--treasure-bane",
+    "a": "treasure-creating-famous-weapons-and-armour",
+    "b": "treasure-bane",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-treasure-craftsmanship--treasure-bane",
+    "a": "treasure-craftsmanship",
+    "b": "treasure-bane",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-fellowship-advancement--hero-rewards",
+    "a": "fellowship-advancement",
+    "b": "hero-rewards",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-fellowship-advancement--hero-virtues",
+    "a": "fellowship-advancement",
+    "b": "hero-virtues",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-treasure-creating-famous-weapons-and-armour--treasure-add-rewards",
+    "a": "treasure-creating-famous-weapons-and-armour",
+    "b": "treasure-add-rewards",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-treasure-bane--treasure-add-rewards",
+    "a": "treasure-bane",
+    "b": "treasure-add-rewards",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-treasure-creating-famous-weapons-and-armour--treasure-name-the-item",
+    "a": "treasure-creating-famous-weapons-and-armour",
+    "b": "treasure-name-the-item",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-treasure-finding-magical-treasure--treasure-cursed-items",
+    "a": "treasure-finding-magical-treasure",
+    "b": "treasure-cursed-items",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-damage-brawling--hero-brawling-weapons",
+    "a": "damage-brawling",
+    "b": "hero-brawling-weapons",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-keeper-loremaster--keeper-experience",
+    "a": "keeper-loremaster",
+    "b": "keeper-experience",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-keeper-loremaster--keeper-session-length",
+    "a": "keeper-loremaster",
+    "b": "keeper-session-length",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-damage-piercing-blow--enemies-might-and-endurance",
+    "a": "damage-piercing-blow",
+    "b": "enemies-might-and-endurance",
     "start": null,
     "end": "arrow"
   },
   {
-    "id": "html-calling-favorite",
-    "a": "new_calling",
-    "b": "ooqmW0CU",
+    "id": "link-checks-making-rolls--checks-dice-pool",
+    "a": "checks-making-rolls",
+    "b": "checks-dice-pool",
+    "start": null,
+    "end": "arrow"
+  },
+  {
+    "id": "link-checks-dice-pool--checks-feat-die",
+    "a": "checks-dice-pool",
+    "b": "checks-feat-die",
+    "start": null,
+    "end": "arrow"
+  },
+  {
+    "id": "link-checks-dice-pool--checks-success-die",
+    "a": "checks-dice-pool",
+    "b": "checks-success-die",
+    "start": null,
+    "end": "arrow"
+  },
+  {
+    "id": "link-checks-hope-bonus--checks-success-die",
+    "a": "checks-hope-bonus",
+    "b": "checks-success-die",
+    "start": null,
+    "end": "arrow"
+  },
+  {
+    "id": "link-checks-making-rolls--checks-magical-success",
+    "a": "checks-making-rolls",
+    "b": "checks-magical-success",
+    "start": null,
+    "end": "arrow"
+  },
+  {
+    "id": "link-checks-success-die--checks-penalty-success-dice",
+    "a": "checks-success-die",
+    "b": "checks-penalty-success-dice",
+    "start": null,
+    "end": "arrow"
+  },
+  {
+    "id": "link-checks-making-rolls--checks-repeating-a-roll",
+    "a": "checks-making-rolls",
+    "b": "checks-repeating-a-roll",
+    "start": null,
+    "end": "arrow"
+  },
+  {
+    "id": "link-hero-attributes--hero-combat-proficiencies",
+    "a": "hero-attributes",
+    "b": "hero-combat-proficiencies",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-hero-attributes--fellowship-yule",
+    "a": "hero-attributes",
+    "b": "fellowship-yule",
     "start": null,
     "end": "arrow",
     "labels": {
-      "new_calling": "Призвание → Характеристики и навыки · Любимый навык"
+      "hero-attributes": "Разум → Фаза Братства · Йоль"
     }
   },
   {
-    "id": "html-calling-quality",
-    "a": "new_calling",
-    "b": "A6VF7sRT",
+    "id": "link-hero-derived-attributes--damage-resolving-attacks",
+    "a": "hero-derived-attributes",
+    "b": "damage-resolving-attacks",
     "start": null,
     "end": "arrow",
     "labels": {
-      "new_calling": "Призвание → Характеристики и навыки · Отличительные качества"
+      "hero-derived-attributes": "Парирование → Атаки и ранения · Атака"
     }
   },
   {
-    "id": "html-calling-shadow-path",
-    "a": "new_calling",
-    "b": "T7NrYN6c",
+    "id": "link-hero-wisdom--shadow-shadow-test",
+    "a": "hero-wisdom",
+    "b": "shadow-shadow-test",
     "start": null,
     "end": "arrow",
     "labels": {
-      "new_calling": "Призвание → Тень · Путь Тени"
+      "hero-wisdom": "Мудрость → Тень · Проверка Тени"
     }
   },
   {
-    "id": "html-lifestyle-culture",
-    "a": "NJ5WkVnrKRziv83CZ5a5S",
-    "b": "Zm6NVzT0",
+    "id": "link-hero-wisdom--fellowship-advancement",
+    "a": "hero-wisdom",
+    "b": "fellowship-advancement",
+    "start": null,
+    "end": "arrow",
+    "labels": {
+      "hero-wisdom": "Мудрость → Фаза Братства · Улучшение параметров"
+    }
+  },
+  {
+    "id": "link-hero-skills--fellowship-advancement",
+    "a": "hero-skills",
+    "b": "fellowship-advancement",
+    "start": null,
+    "end": "arrow"
+  },
+  {
+    "id": "link-hero-rewards--treasure-creating-famous-weapons-and-armour",
+    "a": "hero-rewards",
+    "b": "treasure-creating-famous-weapons-and-armour",
+    "start": "arrow",
+    "end": "arrow",
+    "labels": {
+      "hero-rewards": "Награды → Сокровища · Знаменитое оружие и броня"
+    }
+  },
+  {
+    "id": "link-creation-character-creation--creation-calling",
+    "a": "creation-character-creation",
+    "b": "creation-calling",
+    "start": null,
+    "end": "arrow"
+  },
+  {
+    "id": "link-creation-calling--hero-favoured-skill",
+    "a": "creation-calling",
+    "b": "hero-favoured-skill",
+    "start": null,
+    "end": "arrow",
+    "labels": {
+      "creation-calling": "Призвание → Характеристики и навыки · Любимый навык"
+    }
+  },
+  {
+    "id": "link-creation-calling--hero-distinctive-features",
+    "a": "creation-calling",
+    "b": "hero-distinctive-features",
+    "start": null,
+    "end": "arrow",
+    "labels": {
+      "creation-calling": "Призвание → Характеристики и навыки · Отличительные качества"
+    }
+  },
+  {
+    "id": "link-creation-calling--shadow-shadow-path",
+    "a": "creation-calling",
+    "b": "shadow-shadow-path",
+    "start": null,
+    "end": "arrow",
+    "labels": {
+      "creation-calling": "Призвание → Тень · Путь Тени"
+    }
+  },
+  {
+    "id": "link-creation-standard-of-living--creation-heroic-culture",
+    "a": "creation-standard-of-living",
+    "b": "creation-heroic-culture",
     "start": "arrow",
     "end": null,
     "labels": {
-      "NJ5WkVnrKRziv83CZ5a5S": "Начальный Образ жизни → Создание героя · Культура"
+      "creation-standard-of-living": "Начальный Образ жизни → Создание героя · Культура"
     }
   },
   {
-    "id": "html-lifestyle-treasure",
-    "a": "NJ5WkVnrKRziv83CZ5a5S",
-    "b": "cbzeiMlv",
+    "id": "link-creation-standard-of-living--treasure-hoards",
+    "a": "creation-standard-of-living",
+    "b": "treasure-hoards",
     "start": "arrow",
     "end": null,
     "labels": {
-      "NJ5WkVnrKRziv83CZ5a5S": "Рейтинг сокровищ → Сокровища · Клады"
+      "creation-standard-of-living": "Рейтинг сокровищ → Сокровища · Клады"
     }
   },
   {
-    "id": "html-ponies-treasure-load",
-    "a": "jvZq962a",
-    "b": "JXKKcVWe",
+    "id": "link-creation-ponies-and-horses--treasure-carrying-treasure",
+    "a": "creation-ponies-and-horses",
+    "b": "treasure-carrying-treasure",
     "start": null,
     "end": "arrow",
     "labels": {
-      "jvZq962a": "Вьючные животные → Сокровища · Нагрузка от сокровищ"
+      "creation-ponies-and-horses": "Вьючные животные → Сокровища · Нагрузка от сокровищ"
     }
   },
   {
-    "id": "html-treasure-prepare-list",
-    "a": "new_treasure_prepare",
-    "b": "FB0unXZC",
+    "id": "link-treasure-preparing-treasure--treasure-treasure-index",
+    "a": "treasure-preparing-treasure",
+    "b": "treasure-treasure-index",
     "start": null,
     "end": "arrow",
     "labels": {
-      "new_treasure_prepare": "Подготовка → Список сокровищ"
+      "treasure-preparing-treasure": "Подготовка → Список сокровищ"
     }
   },
   {
-    "id": "html-treasure-award-hoard",
-    "a": "new_treasure_award",
-    "b": "cbzeiMlv",
+    "id": "link-treasure-awarding-treasure--treasure-hoards",
+    "a": "treasure-awarding-treasure",
+    "b": "treasure-hoards",
     "start": null,
     "end": "arrow",
     "labels": {
-      "new_treasure_award": "Вручение → Клады"
+      "treasure-awarding-treasure": "Вручение → Клады"
     }
   },
   {
-    "id": "html-eye-pursuit-threshold",
-    "a": "Odk6dwa0",
-    "b": "new_eye_threshold",
+    "id": "link-eye-eye-awareness--eye-hunt-threshold",
+    "a": "eye-eye-awareness",
+    "b": "eye-hunt-threshold",
     "start": null,
     "end": "arrow",
     "labels": {
-      "Odk6dwa0": "Бдительность Ока → Порог преследования"
+      "eye-eye-awareness": "Бдительность Ока → Порог преследования"
     }
   },
   {
-    "id": "html-eye-initial-composition",
-    "a": "IthSr4oj",
-    "b": "7fxQXeAb",
+    "id": "link-eye-starting-eye-awareness--eye-company-composition",
+    "a": "eye-starting-eye-awareness",
+    "b": "eye-company-composition",
     "start": null,
     "end": "arrow",
     "labels": {
-      "IthSr4oj": "Начальный рейтинг → Состав отряда"
+      "eye-starting-eye-awareness": "Начальный рейтинг → Состав отряда"
     }
   },
   {
-    "id": "html-equipment-endurance-load",
-    "a": "9jEOH49mp834xDMhXckp-",
-    "b": "kjfqE1rG",
+    "id": "link-creation-starting-gear--resources-endurance",
+    "a": "creation-starting-gear",
+    "b": "resources-endurance",
     "start": null,
     "end": "arrow",
     "labels": {
-      "9jEOH49mp834xDMhXckp-": "Снаряжение → Ресурсы и состояния · Выносливость (Нагрузка)"
+      "creation-starting-gear": "Снаряжение → Ресурсы и состояния · Выносливость (Нагрузка)"
     }
   },
   {
-    "id": "html-states-wounds",
-    "a": "1xGI7k1d",
-    "b": "clZg0BDi",
+    "id": "link-resources-conditions--damage-wounds",
+    "a": "resources-conditions",
+    "b": "damage-wounds",
     "start": "arrow",
     "end": null,
     "labels": {
-      "1xGI7k1d": "Состояния → Атаки и ранения · Ранения"
+      "resources-conditions": "Состояния → Атаки и ранения · Ранения"
     }
   },
   {
-    "id": "html-rest-endurance-recovery",
-    "a": "new_rest",
-    "b": "MGwJWJft",
+    "id": "link-journey-resting--resources-recovering-endurance",
+    "a": "journey-resting",
+    "b": "resources-recovering-endurance",
     "start": null,
     "end": "arrow",
     "labels": {
-      "new_rest": "Отдых → Ресурсы и состояния · Восстановление Выносливости"
+      "journey-resting": "Отдых → Ресурсы и состояния · Восстановление Выносливости"
     }
   },
   {
-    "id": "html-rest-fatigue",
-    "a": "new_rest",
-    "b": "OVAag9d0",
+    "id": "link-journey-resting--journey-travel-fatigue",
+    "a": "journey-resting",
+    "b": "journey-travel-fatigue",
     "start": null,
     "end": "arrow",
     "labels": {
-      "new_rest": "Отдых → Путешествие · Изнурение"
+      "journey-resting": "Отдых → Путешествие · Изнурение"
     }
   },
   {
-    "id": "html-combat-surprise",
-    "a": "1d97umbn",
-    "b": "QkZh2Hsg",
+    "id": "link-combat-combat--combat-surprise-attacks",
+    "a": "combat-combat",
+    "b": "combat-surprise-attacks",
     "start": null,
     "end": "arrow",
     "labels": {
-      "1d97umbn": "Бой → Внезапная атака"
+      "combat-combat": "Бой → Внезапная атака"
     }
   },
   {
-    "id": "html-combat-volleys",
-    "a": "1d97umbn",
-    "b": "arzGKVhn",
+    "id": "link-combat-combat--combat-opening-volleys",
+    "a": "combat-combat",
+    "b": "combat-opening-volleys",
     "start": null,
     "end": "arrow",
     "labels": {
-      "1d97umbn": "Бой → Первые залпы"
+      "combat-combat": "Бой → Первые залпы"
     }
   },
   {
-    "id": "html-combat-rounds",
-    "a": "1d97umbn",
-    "b": "fTSnoJQY",
+    "id": "link-combat-combat--combat-close-quarters-rounds",
+    "a": "combat-combat",
+    "b": "combat-close-quarters-rounds",
     "start": null,
     "end": "arrow",
     "labels": {
-      "1d97umbn": "Бой → Раунды ближнего боя"
+      "combat-combat": "Бой → Раунды ближнего боя"
     }
   },
   {
-    "id": "html-combat-escape",
-    "a": "1d97umbn",
-    "b": "ZIDAreR3",
+    "id": "link-combat-combat--combat-fleeing",
+    "a": "combat-combat",
+    "b": "combat-fleeing",
     "start": null,
     "end": "arrow",
     "labels": {
-      "1d97umbn": "Бой → Побег из боя"
+      "combat-combat": "Бой → Побег из боя"
     }
   },
   {
-    "id": "html-surprise-attack",
-    "a": "QkZh2Hsg",
-    "b": "OjPDsYr0",
+    "id": "link-combat-surprise-attacks--damage-resolving-attacks",
+    "a": "combat-surprise-attacks",
+    "b": "damage-resolving-attacks",
     "start": null,
     "end": "arrow",
     "labels": {
-      "QkZh2Hsg": "Внезапная атака → Атаки и ранения · Атака"
+      "combat-surprise-attacks": "Внезапная атака → Атаки и ранения · Атака"
     }
   },
   {
-    "id": "html-volleys-attack",
-    "a": "arzGKVhn",
-    "b": "OjPDsYr0",
+    "id": "link-combat-opening-volleys--damage-resolving-attacks",
+    "a": "combat-opening-volleys",
+    "b": "damage-resolving-attacks",
     "start": null,
     "end": "arrow",
     "labels": {
-      "arzGKVhn": "Первые залпы → Атаки и ранения · Атака"
+      "combat-opening-volleys": "Первые залпы → Атаки и ранения · Атака"
     }
   },
   {
-    "id": "html-action-examples-knocked-back",
-    "a": "G9qJAFnZ",
-    "b": "FNfZyWKO",
+    "id": "link-combat-action-examples--damage-knockback",
+    "a": "combat-action-examples",
+    "b": "damage-knockback",
     "start": "arrow",
     "end": "arrow",
     "labels": {
-      "G9qJAFnZ": "Возврат на позицию → Атаки и ранения · Отброшен"
+      "combat-action-examples": "Возврат на позицию → Атаки и ранения · Отброшен"
     }
   },
   {
-    "id": "html-action-examples-load",
-    "a": "G9qJAFnZ",
-    "b": "kjfqE1rG",
+    "id": "link-combat-action-examples--resources-endurance",
+    "a": "combat-action-examples",
+    "b": "resources-endurance",
     "start": "arrow",
     "end": "arrow",
     "labels": {
-      "G9qJAFnZ": "Снижение Нагрузки → Ресурсы и состояния · Выносливость"
+      "combat-action-examples": "Снижение Нагрузки → Ресурсы и состояния · Выносливость"
     }
   },
   {
-    "id": "html-positions-forward",
-    "a": "3fPDhhkV",
-    "b": "uoVahFab",
+    "id": "link-combat-stances--combat-forward-stance",
+    "a": "combat-stances",
+    "b": "combat-forward-stance",
     "start": null,
     "end": "arrow",
     "labels": {
-      "3fPDhhkV": "Позиции → Передовая позиция"
+      "combat-stances": "Позиции → Передовая позиция"
     }
   },
   {
-    "id": "html-positions-open",
-    "a": "3fPDhhkV",
-    "b": "SNtIbWp3",
+    "id": "link-combat-stances--combat-open-stance",
+    "a": "combat-stances",
+    "b": "combat-open-stance",
     "start": null,
     "end": "arrow",
     "labels": {
-      "3fPDhhkV": "Позиции → Средняя позиция"
+      "combat-stances": "Позиции → Средняя позиция"
     }
   },
   {
-    "id": "html-positions-defensive",
-    "a": "3fPDhhkV",
-    "b": "idx4oahh",
+    "id": "link-combat-stances--combat-defensive-stance",
+    "a": "combat-stances",
+    "b": "combat-defensive-stance",
     "start": null,
     "end": "arrow",
     "labels": {
-      "3fPDhhkV": "Позиции → Оборонительная позиция"
+      "combat-stances": "Позиции → Оборонительная позиция"
     }
   },
   {
-    "id": "html-positions-rearward",
-    "a": "3fPDhhkV",
-    "b": "aczL2W3c",
+    "id": "link-combat-stances--combat-rearward-stance",
+    "a": "combat-stances",
+    "b": "combat-rearward-stance",
     "start": null,
     "end": "arrow",
     "labels": {
-      "3fPDhhkV": "Позиции → Стрелковая позиция"
+      "combat-stances": "Позиции → Стрелковая позиция"
     }
   },
   {
-    "id": "html-tasks-intimidate",
-    "a": "Otpr5WAz",
-    "b": "new_task_intimidate",
+    "id": "link-combat-combat-tasks--combat-intimidate-foe",
+    "a": "combat-combat-tasks",
+    "b": "combat-intimidate-foe",
     "start": null,
     "end": "arrow",
     "labels": {
-      "Otpr5WAz": "Боевые задачи → Запугать врага"
+      "combat-combat-tasks": "Боевые задачи → Запугать врага"
     }
   },
   {
-    "id": "html-tasks-rally",
-    "a": "new_task_intimidate",
-    "b": "new_task_rally",
+    "id": "link-combat-intimidate-foe--combat-rally-comrades",
+    "a": "combat-intimidate-foe",
+    "b": "combat-rally-comrades",
     "start": "arrow",
     "end": "arrow",
     "labels": {
-      "new_task_intimidate": "Боевые задачи · Сплотить соратников"
+      "combat-intimidate-foe": "Боевые задачи · Сплотить соратников"
     }
   },
   {
-    "id": "html-tasks-protect",
-    "a": "new_task_rally",
-    "b": "new_task_protect",
+    "id": "link-combat-rally-comrades--combat-protect-companion",
+    "a": "combat-rally-comrades",
+    "b": "combat-protect-companion",
     "start": "arrow",
     "end": "arrow",
     "labels": {
-      "new_task_rally": "Боевые задачи · Защитить товарища"
+      "combat-rally-comrades": "Боевые задачи · Защитить товарища"
     }
   },
   {
-    "id": "html-tasks-shot",
-    "a": "new_task_protect",
-    "b": "new_task_shot",
+    "id": "link-combat-protect-companion--combat-prepare-shot",
+    "a": "combat-protect-companion",
+    "b": "combat-prepare-shot",
     "start": "arrow",
     "end": "arrow",
     "labels": {
-      "new_task_protect": "Боевые задачи · Подготовить выстрел"
+      "combat-protect-companion": "Боевые задачи · Подготовить выстрел"
     }
   },
   {
-    "id": "html-wounds-first-aid",
-    "a": "clZg0BDi",
-    "b": "0IeUYjhX",
+    "id": "link-damage-wounds--damage-first-aid",
+    "a": "damage-wounds",
+    "b": "damage-first-aid",
     "start": null,
     "end": "arrow",
     "labels": {
-      "clZg0BDi": "Ранения → Первая помощь при Ранении"
+      "damage-wounds": "Ранения → Первая помощь при Ранении"
     }
   },
   {
-    "id": "html-first-aid-dying",
-    "a": "0IeUYjhX",
-    "b": "HB3xxTjy",
+    "id": "link-damage-first-aid--damage-dying",
+    "a": "damage-first-aid",
+    "b": "damage-dying",
     "start": null,
     "end": "arrow",
     "labels": {
-      "0IeUYjhX": "Первая помощь при Ранении → Умирающий герой"
+      "damage-first-aid": "Первая помощь при Ранении → Умирающий герой"
     }
   },
   {
-    "id": "html-council-bonuses",
-    "a": "P9P7Krkl",
-    "b": "XsWH6P9U",
+    "id": "link-council-council--council-roleplaying-bonuses",
+    "a": "council-council",
+    "b": "council-roleplaying-bonuses",
     "start": null,
     "end": "arrow",
     "labels": {
-      "P9P7Krkl": "Совет → Бонусы за ролевое взаимодействие"
+      "council-council": "Совет → Бонусы за ролевое взаимодействие"
     }
   },
   {
-    "id": "html-journey-roles-target",
-    "a": "RmbGGFNg",
-    "b": "IMmqCuD2",
+    "id": "link-journey-journey-roles--journey-event-target-selection",
+    "a": "journey-journey-roles",
+    "b": "journey-event-target-selection",
     "start": null,
     "end": "arrow",
     "labels": {
-      "RmbGGFNg": "Роли в путешествии → Выбор цели сцены"
+      "journey-journey-roles": "Роли в путешествии → Выбор цели сцены"
     }
   },
   {
-    "id": "html-journey-scene-target",
-    "a": "7szGboh9",
-    "b": "IMmqCuD2",
+    "id": "link-journey-journey-event-resolution--journey-event-target-selection",
+    "a": "journey-journey-event-resolution",
+    "b": "journey-event-target-selection",
     "start": null,
     "end": "arrow",
     "labels": {
-      "7szGboh9": "Разыгрывание сцены → Выбор цели сцены"
+      "journey-journey-event-resolution": "Разыгрывание сцены → Выбор цели сцены"
     }
   },
   {
-    "id": "html-journey-target-scene",
-    "a": "IMmqCuD2",
-    "b": "81NjnIbN",
+    "id": "link-journey-event-target-selection--journey-determine-event",
+    "a": "journey-event-target-selection",
+    "b": "journey-determine-event",
     "start": null,
     "end": "arrow",
     "labels": {
-      "IMmqCuD2": "Выбор цели → Определение сцены"
+      "journey-event-target-selection": "Выбор цели → Определение сцены"
     }
   },
   {
-    "id": "html-journey-scene-result",
-    "a": "81NjnIbN",
-    "b": "fBDZmNmm",
+    "id": "link-journey-determine-event--journey-event-outcome",
+    "a": "journey-determine-event",
+    "b": "journey-event-outcome",
     "start": null,
     "end": "arrow",
     "labels": {
-      "81NjnIbN": "Определение сцены → Результат сцены"
+      "journey-determine-event": "Определение сцены → Результат сцены"
     }
   },
   {
-    "id": "html-fellowship-spiritual-recovery",
-    "a": "qudBqT4T",
-    "b": "dkEvHKJy",
+    "id": "link-fellowship-fellowship-phase--fellowship-spiritual-recovery",
+    "a": "fellowship-fellowship-phase",
+    "b": "fellowship-spiritual-recovery",
     "start": "arrow",
     "end": "arrow"
   },
   {
-    "id": "html-companion-shadow",
-    "a": "8rwchxSn",
-    "b": "1jqaSwE1",
+    "id": "link-company-fellowship-focus--shadow-shadow-points",
+    "a": "company-fellowship-focus",
+    "b": "shadow-shadow-points",
     "start": null,
     "end": "arrow",
     "labels": {
-      "8rwchxSn": "Страдания Важного товарища → Тень"
+      "company-fellowship-focus": "Страдания Важного товарища → Тень"
     }
   },
   {
-    "id": "html-safe-place-fellowship",
-    "a": "80REWUzP",
-    "b": "qudBqT4T",
+    "id": "link-company-safe-haven--fellowship-fellowship-phase",
+    "a": "company-safe-haven",
+    "b": "fellowship-fellowship-phase",
     "start": null,
     "end": "arrow",
     "labels": {
-      "80REWUzP": "Безопасное место → Фаза Братства"
+      "company-safe-haven": "Безопасное место → Фаза Братства"
     }
   },
   {
-    "id": "html-enemy-skills-special-damage",
-    "a": "HxXwN2YM",
-    "b": "7MkS8gz0",
+    "id": "link-enemies-combat-proficiencies--enemies-special-damage",
+    "a": "enemies-combat-proficiencies",
+    "b": "enemies-special-damage",
     "start": null,
     "end": "arrow",
     "labels": {
-      "HxXwN2YM": "Боевые умения → Особый урон"
+      "enemies-combat-proficiencies": "Боевые умения → Особый урон"
     }
   },
   {
-    "id": "html-enemy-special-crushing",
-    "a": "7MkS8gz0",
-    "b": "new_enemy_crushing_blow",
+    "id": "link-enemies-special-damage--enemies-heavy-blow",
+    "a": "enemies-special-damage",
+    "b": "enemies-heavy-blow",
     "start": null,
     "end": "arrow",
     "labels": {
-      "7MkS8gz0": "Особый урон → Сокрушительный удар"
+      "enemies-special-damage": "Особый урон → Сокрушительный удар"
     }
   }
 ]

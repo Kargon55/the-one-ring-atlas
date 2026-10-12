@@ -5,29 +5,29 @@
     "desc": "Способности, отличия, мудрость и доблесть",
     "number": "02",
     "nodes": [
-      "FGjP9n1h",
-      "z7mA2lwC",
-      "UXrTt2lW",
-      "new_combat_skills",
-      "yTeGQ2Ru",
-      "4iaoPg7jyedAgq6Bg9Ucq",
-      "uSzItYP0",
-      "iQpO6o6O",
-      "gVwdNf0n",
-      "i3cB4RGc",
-      "ooqmW0CU",
-      "bt2WxY3G",
-      "e9rMhkTq",
-      "A6VF7sRT"
+      "hero-attributes",
+      "hero-derived-attributes",
+      "hero-skills",
+      "hero-combat-proficiencies",
+      "hero-valour",
+      "hero-wisdom",
+      "hero-skill-list",
+      "hero-combat-proficiencies-and-weapons",
+      "hero-rewards",
+      "hero-virtues",
+      "hero-favoured-skill",
+      "hero-brawling-weapons",
+      "hero-cultural-virtues",
+      "hero-distinctive-features"
     ]
   },
   "nodes": [
     {
-      "id": "FGjP9n1h",
+      "id": "hero-attributes",
       "section": "hero",
       "parts": [
         {
-          "id": "ggZTaQL4",
+          "id": "hero-attributes--text-1",
           "text": "Три основные характеристики героя — Сила, Сердце и Разум. Они отражают его физические, духовные и умственные способности."
         }
       ],
@@ -36,11 +36,11 @@
       "pages": "29"
     },
     {
-      "id": "z7mA2lwC",
+      "id": "hero-derived-attributes",
       "section": "hero",
       "parts": [
         {
-          "id": "60UdT3uc",
+          "id": "hero-derived-attributes--text-1",
           "text": "Основные характеристики определяют максимум Выносливости, максимум Надежды и рейтинг Парирования.\n\nВыносливость связана с Силой, Надежда — с Сердцем, Парирование — с Разумом."
         }
       ],
@@ -49,11 +49,11 @@
       "pages": "29, 32–43"
     },
     {
-      "id": "UXrTt2lW",
+      "id": "hero-skills",
       "section": "hero",
       "parts": [
         {
-          "id": "KyhsKinq",
+          "id": "hero-skills--text-1",
           "text": "Навыки отражают, что герой умеет делать и насколько хорошо. При проверке бросьте Кость испытания и число Костей успеха, равное рейтингу навыка."
         }
       ],
@@ -62,11 +62,11 @@
       "pages": "30, 60–64"
     },
     {
-      "id": "new_combat_skills",
+      "id": "hero-combat-proficiencies",
       "section": "hero",
       "parts": [
         {
-          "id": "Ppu339Qg",
+          "id": "hero-combat-proficiencies--text-1",
           "text": "Боевые умения отражают мастерство героя в бою. При проверке бросьте Кость испытания и число Костей успеха, равное рейтингу Боевого умения. Все проверки атаки совершаются против ЦЧ Силы."
         }
       ],
@@ -75,11 +75,11 @@
       "pages": "30, 65–66"
     },
     {
-      "id": "yTeGQ2Ru",
+      "id": "hero-valour",
       "section": "hero",
       "parts": [
         {
-          "id": "VltpUv7T",
+          "id": "hero-valour--text-1",
           "text": "Отражает храбрость героя и славу, заслуженную великими деяниями. Проверка Доблести совершается против ЦЧ Сердца."
         }
       ],
@@ -88,11 +88,11 @@
       "pages": "51, 78–79"
     },
     {
-      "id": "4iaoPg7jyedAgq6Bg9Ucq",
+      "id": "hero-wisdom",
       "section": "hero",
       "parts": [
         {
-          "id": "iYGWUXk1",
+          "id": "hero-wisdom--text-1",
           "text": "Отражает уверенность героя в себе, зрелость и здравомыслие. Проверка Мудрости совершается против ЦЧ Разума."
         }
       ],
@@ -101,7 +101,7 @@
       "pages": "78, 80–81, 136"
     },
     {
-      "id": "uSzItYP0",
+      "id": "hero-skill-list",
       "section": "hero",
       "parts": [],
       "title": "Список навыков",
@@ -155,7 +155,7 @@
       "pages": "60–61"
     },
     {
-      "id": "iQpO6o6O",
+      "id": "hero-combat-proficiencies-and-weapons",
       "section": "hero",
       "parts": [],
       "title": "Боевые умения и оружие",
@@ -187,11 +187,11 @@
       "pages": "48, 65–66"
     },
     {
-      "id": "gVwdNf0n",
+      "id": "hero-rewards",
       "section": "hero",
       "parts": [
         {
-          "id": "malhfAyH",
+          "id": "hero-rewards--text-1",
           "text": "Одну Награду выбирают при создании героя; ещё одну можно получить при каждом повышении Доблести. Награды улучшают боевое снаряжение."
         }
       ],
@@ -200,11 +200,11 @@
       "pages": "51, 79"
     },
     {
-      "id": "i3cB4RGc",
+      "id": "hero-virtues",
       "section": "hero",
       "parts": [
         {
-          "id": "CZqlUnN2",
+          "id": "hero-virtues--text-1",
           "text": "Одну Особенность выбирают при создании героя; новую можно получить при каждом повышении Мудрости."
         }
       ],
@@ -213,11 +213,11 @@
       "pages": "51, 80"
     },
     {
-      "id": "ooqmW0CU",
+      "id": "hero-favoured-skill",
       "section": "hero",
       "parts": [
         {
-          "id": "47CKzMWd",
+          "id": "hero-favoured-skill--text-1",
           "text": "Все проверки любимого навыка являются благополучными."
         }
       ],
@@ -226,11 +226,11 @@
       "pages": "20, 60"
     },
     {
-      "id": "bt2WxY3G",
+      "id": "hero-brawling-weapons",
       "section": "hero",
       "parts": [
         {
-          "id": "BtlZm8De",
+          "id": "hero-brawling-weapons--text-1",
           "text": "При атаке без оружия, кинжалом, дубинкой или импровизированным оружием используйте наибольший рейтинг Боевого умения и уберите 1 Кость успеха."
         }
       ],
@@ -239,11 +239,11 @@
       "pages": "48, 67"
     },
     {
-      "id": "e9rMhkTq",
+      "id": "hero-cultural-virtues",
       "section": "hero",
       "parts": [
         {
-          "id": "hOly5hv1",
+          "id": "hero-cultural-virtues--text-1",
           "text": "Особенности своей культуры можно выбирать вместо обычных начиная со 2-го уровня Мудрости."
         }
       ],
@@ -252,11 +252,11 @@
       "pages": "81–89"
     },
     {
-      "id": "A6VF7sRT",
+      "id": "hero-distinctive-features",
       "section": "hero",
       "parts": [
         {
-          "id": "zlHaz7To",
+          "id": "hero-distinctive-features--text-1",
           "text": "Отличительное качество может Вдохновить героя при проверке навыка, если объясняет, почему он лучше справится с задачей."
         }
       ],

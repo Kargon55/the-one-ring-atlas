@@ -5,25 +5,25 @@
     "desc": "Параметры, атаки и особые способности",
     "number": "13",
     "nodes": [
-      "aiaYdWAO",
-      "Ckg8bfJd",
-      "38tfzLIU",
-      "4uScZRJk",
-      "gXqe7lGv",
-      "viNFOTCM",
-      "HxXwN2YM",
-      "7MkS8gz0",
-      "new_enemy_crushing_blow",
-      "obibhnYS"
+      "enemies-adversaries",
+      "enemies-attribute-level",
+      "enemies-might-and-endurance",
+      "enemies-hate-and-resolve",
+      "enemies-parry",
+      "enemies-armour",
+      "enemies-combat-proficiencies",
+      "enemies-special-damage",
+      "enemies-heavy-blow",
+      "enemies-fell-abilities"
     ]
   },
   "nodes": [
     {
-      "id": "aiaYdWAO",
+      "id": "enemies-adversaries",
       "section": "enemies",
       "parts": [
         {
-          "id": "w5tK1NtE",
+          "id": "enemies-adversaries--text-1",
           "text": "Параметры противника:\n• уровень характеристики;\n• Мощь и Выносливость;\n• Ненависть или Решимость;\n• Парирование;\n• Броня;\n• Боевые умения;\n• особый урон;\n• способности врага."
         }
       ],
@@ -32,11 +32,11 @@
       "pages": "143–144"
     },
     {
-      "id": "Ckg8bfJd",
+      "id": "enemies-attribute-level",
       "section": "enemies",
       "parts": [
         {
-          "id": "REVxC1XT",
+          "id": "enemies-attribute-level--text-1",
           "text": "Заменяет три основные характеристики героя. Используется при определении особого урона и в некоторых способностях врага."
         }
       ],
@@ -45,11 +45,11 @@
       "pages": "143"
     },
     {
-      "id": "38tfzLIU",
+      "id": "enemies-might-and-endurance",
       "section": "enemies",
       "parts": [
         {
-          "id": "nyVhtL1t",
+          "id": "enemies-might-and-endurance--text-1",
           "text": "Выносливость отражает запас сил врага. При 0 Выносливости он выбывает из боя.\n\nМощь определяет число атак за раунд и число Ранений, необходимых, чтобы уничтожить врага."
         }
       ],
@@ -58,11 +58,11 @@
       "pages": "143"
     },
     {
-      "id": "4uScZRJk",
+      "id": "enemies-hate-and-resolve",
       "section": "enemies",
       "parts": [
         {
-          "id": "t29of4sw",
+          "id": "enemies-hate-and-resolve--text-1",
           "text": "Ненависть — у слуг Саурона и чудовищ; Решимость — часто у недобрых людей и других нечудовищных противников.\n\n• Потратьте 1 балл, чтобы получить 1к при проверке в бою.\n• Баллы расходуются на способности врага.\n• При 0 баллов враг считается Усталым.\n• За раунд нельзя потратить больше баллов, чем рейтинг Мощи."
         }
       ],
@@ -71,11 +71,11 @@
       "pages": "143"
     },
     {
-      "id": "gXqe7lGv",
+      "id": "enemies-parry",
       "section": "enemies",
       "parts": [
         {
-          "id": "VxmqDYW3",
+          "id": "enemies-parry--text-1",
           "text": "Рейтинг Парирования прибавляется к ЦЧ Силы героя, который атакует этого врага."
         }
       ],
@@ -84,11 +84,11 @@
       "pages": "144"
     },
     {
-      "id": "viNFOTCM",
+      "id": "enemies-armour",
       "section": "enemies",
       "parts": [
         {
-          "id": "9D0C95Lg",
+          "id": "enemies-armour--text-1",
           "text": "Хранитель использует рейтинг Брони врага при проверке Защиты от Пронзающего удара."
         }
       ],
@@ -97,11 +97,11 @@
       "pages": "144"
     },
     {
-      "id": "HxXwN2YM",
+      "id": "enemies-combat-proficiencies",
       "section": "enemies",
       "parts": [
         {
-          "id": "uGxQBsVU",
+          "id": "enemies-combat-proficiencies--text-1",
           "text": "У каждого врага есть главное и дополнительное Боевое умение. Для каждого указаны рейтинг, Урон/Травма и доступные варианты особого урона."
         }
       ],
@@ -110,11 +110,11 @@
       "pages": "144"
     },
     {
-      "id": "7MkS8gz0",
+      "id": "enemies-special-damage",
       "section": "enemies",
       "parts": [
         {
-          "id": "HeSmXgaZ",
+          "id": "enemies-special-damage--text-1",
           "text": "При успешной атаке Хранитель может тратить знаки успеха на особые эффекты. Один знак активирует один эффект. Несколько знаков можно потратить на разные эффекты или несколько раз активировать один эффект. Всем врагам доступен Сокрушительный удар."
         }
       ],
@@ -123,11 +123,11 @@
       "pages": "144"
     },
     {
-      "id": "new_enemy_crushing_blow",
+      "id": "enemies-heavy-blow",
       "section": "enemies",
       "parts": [
         {
-          "id": "NEW_ENEMY_CRUSHING_BLOW",
+          "id": "enemies-heavy-blow--text-1",
           "text": "Атака наносит дополнительный урон Выносливости, равный уровню характеристики атакующего."
         }
       ],
@@ -136,11 +136,11 @@
       "pages": "144"
     },
     {
-      "id": "obibhnYS",
+      "id": "enemies-fell-abilities",
       "section": "enemies",
       "parts": [
         {
-          "id": "XfaO97pM",
+          "id": "enemies-fell-abilities--text-1",
           "text": "Если не указано иное, способность врага можно применить дополнительно к атаке, если хватает Ненависти или Решимости. Для способности можно потратить последний оставшийся балл."
         }
       ],

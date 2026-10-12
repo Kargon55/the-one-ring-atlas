@@ -2,6 +2,7 @@
 
 import base64
 import json
+import re
 from pathlib import Path
 
 
@@ -56,6 +57,9 @@ def validate(data):
     sections = {section["id"] for section in data["sections"]}
     nodes = {node["id"] for node in data["nodes"]}
     edges = [edge["id"] for edge in data["edges"]]
+    readable_id = re.compile(r"[a-z0-9]+(?:-+[a-z0-9]+)*\Z")
+    if any(not readable_id.fullmatch(identifier) for identifier in (*nodes, *edges)):
+        raise ValueError("Card and link IDs must use readable lowercase slugs")
     if len(edges) != len(set(edges)):
         raise ValueError("Duplicate link ID")
     part_ids = [part["id"] for node in data["nodes"] for part in node["parts"]]
@@ -68,6 +72,8 @@ def validate(data):
         if node["section"] not in sections:
             raise ValueError(f"Unknown section for {node['id']}")
     for edge in data["edges"]:
+        if "hidden" in edge:
+            raise ValueError(f"Hidden links do not belong in the atlas: {edge['id']}")
         if edge["a"] not in nodes or edge["b"] not in nodes:
             raise ValueError(f"Broken link {edge['id']}")
         if edge.get("start") not in (None, "arrow") or edge.get("end") not in (None, "arrow"):

@@ -5,31 +5,31 @@
     "desc": "От выбора способности до степени успеха",
     "number": "01",
     "nodes": [
-      "G8jjZcYV",
-      "new_base_pool",
-      "hi7i1C3N",
-      "IOlLjtIx",
-      "o53KDEBE",
-      "4nQvEIQE",
-      "XcYk0L80",
-      "xXkEqXRL",
-      "lK0vlqDu",
-      "yT35XggA",
-      "J1UsNHsZ",
-      "2t5Sf7Dl",
-      "gu1votkJ",
-      "SWf7Jvwo",
-      "XmoeTj86",
-      "kURqBhn9"
+      "checks-making-rolls",
+      "checks-dice-pool",
+      "checks-feat-die",
+      "checks-target-number",
+      "checks-success-die",
+      "checks-feat-die-special-results",
+      "checks-degrees-of-success",
+      "checks-special-successes",
+      "checks-bonus-success-dice",
+      "checks-hope-bonus",
+      "checks-inspiration",
+      "checks-magical-success",
+      "checks-penalty-success-dice",
+      "checks-repeating-a-roll",
+      "checks-support",
+      "checks-favoured-and-ill-favoured-rolls"
     ]
   },
   "nodes": [
     {
-      "id": "G8jjZcYV",
+      "id": "checks-making-rolls",
       "section": "checks",
       "parts": [
         {
-          "id": "UXBaktVX",
+          "id": "checks-making-rolls--text-1",
           "text": "Проверки бывают трёх видов: проверка навыка, боевая проверка и проверка Тени."
         }
       ],
@@ -38,11 +38,11 @@
       "pages": "17, 23"
     },
     {
-      "id": "new_base_pool",
+      "id": "checks-dice-pool",
       "section": "checks",
       "parts": [
         {
-          "id": "NEW_BASE_POOL",
+          "id": "checks-dice-pool--text-1",
           "text": "Для проверки бросьте 1 Кость испытания (к12) и число Костей успеха (к6), равное рейтингу проверяемой способности. При рейтинге 0 бросьте только Кость испытания."
         }
       ],
@@ -51,11 +51,11 @@
       "pages": "17, 23"
     },
     {
-      "id": "hi7i1C3N",
+      "id": "checks-feat-die",
       "section": "checks",
       "parts": [
         {
-          "id": "32DXzIFf",
+          "id": "checks-feat-die--text-1",
           "text": ""
         }
       ],
@@ -64,15 +64,15 @@
       "pages": "17, 23"
     },
     {
-      "id": "IOlLjtIx",
+      "id": "checks-target-number",
       "section": "checks",
       "parts": [
         {
-          "id": "K4vB0f0H",
+          "id": "checks-target-number--text-1",
           "text": "Сравните результат броска с целевым числом. Результат, равный ЦЧ или превышающий его, означает успех."
         },
         {
-          "id": "yy7Wm1NT",
+          "id": "checks-target-number--text-2",
           "text": "ЦЧ = 20 − рейтинг соответствующей характеристики."
         }
       ],
@@ -81,11 +81,11 @@
       "pages": "18"
     },
     {
-      "id": "o53KDEBE",
+      "id": "checks-success-die",
       "section": "checks",
       "parts": [
         {
-          "id": "38p5EsmF",
+          "id": "checks-success-die--text-1",
           "text": ""
         }
       ],
@@ -94,11 +94,11 @@
       "pages": "18"
     },
     {
-      "id": "4nQvEIQE",
+      "id": "checks-feat-die-special-results",
       "section": "checks",
       "parts": [
         {
-          "id": "2eBT9U6S",
+          "id": "checks-feat-die-special-results--text-1",
           "text": "Руна Гэндальфа означает автоматический успех. Око Саурона обычно даёт 0; если герой Несчастен, оно означает автоматический провал."
         }
       ],
@@ -107,15 +107,15 @@
       "pages": "17, 23"
     },
     {
-      "id": "XcYk0L80",
+      "id": "checks-degrees-of-success",
       "section": "checks",
       "parts": [
         {
-          "id": "e4S83uM5",
+          "id": "checks-degrees-of-success--text-1",
           "text": "0 рун — успех; 1 — большой успех; 2 и более — выдающийся успех."
         },
         {
-          "id": "y0qG5ax6",
+          "id": "checks-degrees-of-success--text-2",
           "text": "Особые успехи из таблицы применяются при проверках навыков. В бою знаки успеха дают эффекты особого урона."
         }
       ],
@@ -124,7 +124,7 @@
       "pages": "18"
     },
     {
-      "id": "xXkEqXRL",
+      "id": "checks-special-successes",
       "section": "checks",
       "parts": [],
       "title": "Особые успехи при проверках навыков",
@@ -164,11 +164,11 @@
       "pages": "18–19"
     },
     {
-      "id": "lK0vlqDu",
+      "id": "checks-bonus-success-dice",
       "section": "checks",
       "parts": [
         {
-          "id": "hRqVnDID",
+          "id": "checks-bonus-success-dice--text-1",
           "text": "Добавьте 1к за благоприятные обстоятельства или полезный талант; в особенно благоприятной ситуации — 2к."
         }
       ],
@@ -177,11 +177,11 @@
       "pages": "20–21, 23"
     },
     {
-      "id": "yT35XggA",
+      "id": "checks-hope-bonus",
       "section": "checks",
       "parts": [
         {
-          "id": "NnOz0v3r",
+          "id": "checks-hope-bonus--text-1",
           "text": "Перед проверкой можно потратить 1 балл Надежды и получить +1к. На одну проверку можно потратить не более 1 балла Надежды."
         }
       ],
@@ -190,11 +190,11 @@
       "pages": "20–21, 23"
     },
     {
-      "id": "J1UsNHsZ",
+      "id": "checks-inspiration",
       "section": "checks",
       "parts": [
         {
-          "id": "7dwdlpCo",
+          "id": "checks-inspiration--text-1",
           "text": "Если герой Вдохновлён, при трате Надежды он получает +2к вместо +1к. Источником Вдохновения могут быть Отличительные качества и другие эффекты."
         }
       ],
@@ -203,11 +203,11 @@
       "pages": "20, 22–23"
     },
     {
-      "id": "2t5Sf7Dl",
+      "id": "checks-magical-success",
       "section": "checks",
       "parts": [
         {
-          "id": "QHceiO1J",
+          "id": "checks-magical-success--text-1",
           "text": "При наличии подходящего таланта или артефакта перед проверкой навыка потратьте 1 балл Надежды: Кость испытания не бросается, а Кости успеха определяют степень успеха."
         }
       ],
@@ -216,11 +216,11 @@
       "pages": "21"
     },
     {
-      "id": "gu1votkJ",
+      "id": "checks-penalty-success-dice",
       "section": "checks",
       "parts": [
         {
-          "id": "IwTMiGLA",
+          "id": "checks-penalty-success-dice--text-1",
           "text": "Уберите 1к или 2к за неблагоприятные обстоятельства либо невыгодную позицию."
         }
       ],
@@ -229,11 +229,11 @@
       "pages": "21, 23"
     },
     {
-      "id": "SWf7Jvwo",
+      "id": "checks-repeating-a-roll",
       "section": "checks",
       "parts": [
         {
-          "id": "uoaarx2G",
+          "id": "checks-repeating-a-roll--text-1",
           "text": "С разрешения Хранителя герой может повторить проваленную проверку навыка с другим навыком и подходом; последствия первого провала сохраняются."
         }
       ],
@@ -242,11 +242,11 @@
       "pages": "17"
     },
     {
-      "id": "XmoeTj86",
+      "id": "checks-support",
       "section": "checks",
       "parts": [
         {
-          "id": "K0T7BcSp",
+          "id": "checks-support--text-1",
           "text": "При проверке навыка один помощник может потратить 1 балл Надежды, чтобы действующий герой получил +1к. Навык помощника должен быть выше 0 и подходить задаче; это определяет Хранитель."
         }
       ],
@@ -255,11 +255,11 @@
       "pages": "17, 20–21, 23"
     },
     {
-      "id": "kURqBhn9",
+      "id": "checks-favoured-and-ill-favoured-rolls",
       "section": "checks",
       "parts": [
         {
-          "id": "mPTeUe9k",
+          "id": "checks-favoured-and-ill-favoured-rolls--text-1",
           "text": "При благополучном броске дважды бросьте Кость испытания и выберите лучший результат. При злополучном — худший."
         }
       ],

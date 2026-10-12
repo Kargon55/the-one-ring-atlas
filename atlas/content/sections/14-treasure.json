@@ -5,30 +5,30 @@
     "desc": "Клады, артефакты и знаменитое снаряжение",
     "number": "14",
     "nodes": [
-      "new_treasure_prepare",
-      "FB0unXZC",
-      "mw3r9Df7",
-      "PgP7n1du",
-      "31pT5PZP",
-      "0zSpsVlu",
-      "rW3MBeZF",
-      "1IlMNimk",
-      "8tOTMXPS",
-      "new_treasure_award",
-      "cbzeiMlv",
-      "JDoVzpTk",
-      "JXKKcVWe",
-      "0JdqAWQa",
-      "ikIavgoY"
+      "treasure-preparing-treasure",
+      "treasure-treasure-index",
+      "treasure-marvellous-artefacts-and-wondrous-items",
+      "treasure-creating-famous-weapons-and-armour",
+      "treasure-item-type",
+      "treasure-craftsmanship",
+      "treasure-bane",
+      "treasure-add-rewards",
+      "treasure-name-the-item",
+      "treasure-awarding-treasure",
+      "treasure-hoards",
+      "treasure-finding-magical-treasure",
+      "treasure-carrying-treasure",
+      "treasure-transporting-treasure",
+      "treasure-cursed-items"
     ]
   },
   "nodes": [
     {
-      "id": "new_treasure_prepare",
+      "id": "treasure-preparing-treasure",
       "section": "treasure",
       "parts": [
         {
-          "id": "NEW_TREASURE_PREPARE",
+          "id": "treasure-preparing-treasure--text-1",
           "text": "До игры:\n• составьте список волшебных сокровищ.\n• подготовьте Знаменитое оружие и броню."
         }
       ],
@@ -37,11 +37,11 @@
       "pages": "160–163"
     },
     {
-      "id": "FB0unXZC",
+      "id": "treasure-treasure-index",
       "section": "treasure",
       "parts": [
         {
-          "id": "ovx62k15",
+          "id": "treasure-treasure-index--text-1",
           "text": "Для определения волшебных сокровищ заранее составьте список:\n• сколько угодно Дивных артефактов;\n• от 1 до 3 Чудесных предметов на каждого героя;\n• от 1 до 3 предметов Знаменитого оружия и брони на каждого героя."
         }
       ],
@@ -50,11 +50,11 @@
       "pages": "160–162"
     },
     {
-      "id": "mw3r9Df7",
+      "id": "treasure-marvellous-artefacts-and-wondrous-items",
       "section": "treasure",
       "parts": [
         {
-          "id": "LcD0R6Cz",
+          "id": "treasure-marvellous-artefacts-and-wondrous-items--text-1",
           "text": "Дивные артефакты и Чудесные предметы дают +2к к проверкам соответствующих навыков и позволяют получить Волшебный успех. Дивный артефакт связан с одним навыком, Чудесный предмет — с двумя."
         }
       ],
@@ -63,11 +63,11 @@
       "pages": "161"
     },
     {
-      "id": "PgP7n1du",
+      "id": "treasure-creating-famous-weapons-and-armour",
       "section": "treasure",
       "parts": [
         {
-          "id": "pvLK7LFN",
+          "id": "treasure-creating-famous-weapons-and-armour--text-1",
           "text": "1. Выберите тип предмета.\n2. Определите, чья это работа.\n3. Выберите Гибельность.\n4. Добавьте улучшения.\n5. Дайте имя."
         }
       ],
@@ -76,11 +76,11 @@
       "pages": "162–163"
     },
     {
-      "id": "31pT5PZP",
+      "id": "treasure-item-type",
       "section": "treasure",
       "parts": [
         {
-          "id": "Kcn82EGY",
+          "id": "treasure-item-type--text-1",
           "text": "Выберите оружие или броню, подходящие конкретному герою."
         }
       ],
@@ -89,11 +89,11 @@
       "pages": "162"
     },
     {
-      "id": "0zSpsVlu",
+      "id": "treasure-craftsmanship",
       "section": "treasure",
       "parts": [
         {
-          "id": "giaJ11US",
+          "id": "treasure-craftsmanship--text-1",
           "text": "Выберите, чьей работы предмет:\n• эльфийской\n• гномьей\n• нуменорской"
         }
       ],
@@ -102,11 +102,11 @@
       "pages": "163"
     },
     {
-      "id": "rW3MBeZF",
+      "id": "treasure-bane",
       "section": "treasure",
       "parts": [
         {
-          "id": "aKVbQUSC",
+          "id": "treasure-bane--text-1",
           "text": "Если волшебный предмет эльфийской или нуменорской работы, наделите его одним или несколькими гибельными свойствами. Они учитываются в общем числе улучшений."
         }
       ],
@@ -115,11 +115,11 @@
       "pages": "163"
     },
     {
-      "id": "1IlMNimk",
+      "id": "treasure-add-rewards",
       "section": "treasure",
       "parts": [
         {
-          "id": "GpCTA4Q4",
+          "id": "treasure-add-rewards--text-1",
           "text": "Заранее наделите предмет улучшениями из списка Наград и Волшебных наград. Обычно у предмета не более трёх улучшений, и хотя бы одно из них — Волшебная награда."
         }
       ],
@@ -128,11 +128,11 @@
       "pages": "163"
     },
     {
-      "id": "8tOTMXPS",
+      "id": "treasure-name-the-item",
       "section": "treasure",
       "parts": [
         {
-          "id": "LacJRfDX",
+          "id": "treasure-name-the-item--text-1",
           "text": "Дайте предмету подходящее имя и добавьте несколько фактов из его истории."
         }
       ],
@@ -141,11 +141,11 @@
       "pages": "163"
     },
     {
-      "id": "new_treasure_award",
+      "id": "treasure-awarding-treasure",
       "section": "treasure",
       "parts": [
         {
-          "id": "NEW_TREASURE_AWARD",
+          "id": "treasure-awarding-treasure--text-1",
           "text": "Когда герои находят клад:\n• определите его стоимость.\n• определите волшебные сокровища.\n• распределите находки.\n• учтите Нагрузку и перевозку."
         }
       ],
@@ -154,11 +154,11 @@
       "pages": "158–159"
     },
     {
-      "id": "cbzeiMlv",
+      "id": "treasure-hoards",
       "section": "treasure",
       "parts": [
         {
-          "id": "d64xMMz8",
+          "id": "treasure-hoards--text-1",
           "text": "В среднем за одну Фазу приключений отряд находит не более двух кладов: один малый и один большой либо один Дивный клад.\n\nСтоимость клада: результат броска 1–3 Костей успеха умножается на число героев. Сокровища можно распределить не поровну.\n\nВ клад можно добавить Драгоценности."
         }
       ],
@@ -167,11 +167,11 @@
       "pages": "158–159"
     },
     {
-      "id": "JDoVzpTk",
+      "id": "treasure-finding-magical-treasure",
       "section": "treasure",
       "parts": [
         {
-          "id": "zRnFUb29",
+          "id": "treasure-finding-magical-treasure--text-1",
           "text": "Бросьте Кость испытания: для малого клада — 2 раза, большого — 4, Дивного — 6. Каждая руна Гэндальфа или Око означает волшебное сокровище. Затем бросьте Кость успеха, чтобы определить его вид."
         }
       ],
@@ -180,11 +180,11 @@
       "pages": "158–159"
     },
     {
-      "id": "JXKKcVWe",
+      "id": "treasure-carrying-treasure",
       "section": "treasure",
       "parts": [
         {
-          "id": "ruT8Agw9",
+          "id": "treasure-carrying-treasure--text-1",
           "text": "Каждый балл сокровищ, Дивный артефакт или Чудесный предмет даёт 1 балл Нагрузки. Знаменитое оружие и броня имеют собственную Нагрузку."
         }
       ],
@@ -193,11 +193,11 @@
       "pages": "159"
     },
     {
-      "id": "0JdqAWQa",
+      "id": "treasure-transporting-treasure",
       "section": "treasure",
       "parts": [
         {
-          "id": "oaXU9hyv",
+          "id": "treasure-transporting-treasure--text-1",
           "text": "Сокровища можно нагрузить на вьючных животных или спрятать, чтобы вернуться за ними позже."
         }
       ],
@@ -206,11 +206,11 @@
       "pages": "159"
     },
     {
-      "id": "ikIavgoY",
+      "id": "treasure-cursed-items",
       "section": "treasure",
       "parts": [
         {
-          "id": "P0ykHNUs",
+          "id": "treasure-cursed-items--text-1",
           "text": "Хранитель может сделать волшебное сокровище проклятым. Проклятие добавляет предмету отрицательное качество и может проявиться только при определённых обстоятельствах. Хранитель заранее определяет, как снять проклятие."
         }
       ],

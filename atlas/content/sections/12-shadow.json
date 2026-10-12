@@ -5,25 +5,25 @@
     "desc": "Источники Тени и её последствия",
     "number": "12",
     "nodes": [
-      "1jqaSwE1",
-      "i7EzUszr",
-      "ClqRxdWb",
-      "1fjYbZYY",
-      "ThCejAWr",
-      "ohlxXHvL",
-      "Z799M3va",
-      "MgzfvKYs",
-      "441HpfrG",
-      "T7NrYN6c"
+      "shadow-shadow-points",
+      "shadow-shadow-test",
+      "shadow-shadow-consequences",
+      "shadow-dread",
+      "shadow-greed",
+      "shadow-misdeeds",
+      "shadow-sorcery",
+      "shadow-harden-will",
+      "shadow-bout-of-madness",
+      "shadow-shadow-path"
     ]
   },
   "nodes": [
     {
-      "id": "1jqaSwE1",
+      "id": "shadow-shadow-points",
       "section": "shadow",
       "parts": [
         {
-          "id": "IHaJ59dF",
+          "id": "shadow-shadow-points--text-1",
           "text": "Рейтинг Тени не может превышать максимальный рейтинг Надежды. Лишние баллы Тени не учитываются."
         }
       ],
@@ -32,11 +32,11 @@
       "pages": "136–137"
     },
     {
-      "id": "i7EzUszr",
+      "id": "shadow-shadow-test",
       "section": "shadow",
       "parts": [
         {
-          "id": "viaIemiN",
+          "id": "shadow-shadow-test--text-1",
           "text": "Проверка Доблести против ЦЧ Сердца или Мудрости против ЦЧ Разума. При успехе число получаемых баллов Тени уменьшается на 1 и ещё на 1 за каждый знак успеха."
         }
       ],
@@ -45,11 +45,11 @@
       "pages": "137"
     },
     {
-      "id": "ClqRxdWb",
+      "id": "shadow-shadow-consequences",
       "section": "shadow",
       "parts": [
         {
-          "id": "eghhoApq",
+          "id": "shadow-shadow-consequences--text-1",
           "text": "Если Тень равна текущей Надежде или превышает её, герой становится Несчастным. Если Тень достигает максимального рейтинга Надежды, все броски становятся злополучными."
         }
       ],
@@ -58,11 +58,11 @@
       "pages": "137"
     },
     {
-      "id": "1fjYbZYY",
+      "id": "shadow-dread",
       "section": "shadow",
       "parts": [
         {
-          "id": "fdOJRUf4",
+          "id": "shadow-dread--text-1",
           "text": "Баллы Тени от Страха можно уменьшить или отменить проверкой Тени (Доблесть)."
         }
       ],
@@ -71,11 +71,11 @@
       "pages": "137–138"
     },
     {
-      "id": "ThCejAWr",
+      "id": "shadow-greed",
       "section": "shadow",
       "parts": [
         {
-          "id": "0mLJX1bO",
+          "id": "shadow-greed--text-1",
           "text": "Баллы Тени от Жадности можно уменьшить или отменить проверкой Тени (Мудрость)."
         }
       ],
@@ -84,11 +84,11 @@
       "pages": "138"
     },
     {
-      "id": "ohlxXHvL",
+      "id": "shadow-misdeeds",
       "section": "shadow",
       "parts": [
         {
-          "id": "u5M5HIwI",
+          "id": "shadow-misdeeds--text-1",
           "text": "Хранитель предупреждает игрока заранее. Баллы Тени за Проступок нельзя уменьшить проверкой Тени. Даже неудачная попытка считается Проступком.\n\nЕсли Проступок был ненамеренным, раскаяние и попытка исправить ошибку позволяют пройти проверку Тени (Мудрость)."
         }
       ],
@@ -97,11 +97,11 @@
       "pages": "138–139"
     },
     {
-      "id": "Z799M3va",
+      "id": "shadow-sorcery",
       "section": "shadow",
       "parts": [
         {
-          "id": "bl5uzj4Q",
+          "id": "shadow-sorcery--text-1",
           "text": "Баллы Тени от Колдовства можно уменьшить или отменить проверкой Тени (Мудрость)."
         }
       ],
@@ -110,11 +110,11 @@
       "pages": "139"
     },
     {
-      "id": "MgzfvKYs",
+      "id": "shadow-harden-will",
       "section": "shadow",
       "parts": [
         {
-          "id": "BMz8IbWj",
+          "id": "shadow-harden-will--text-1",
           "text": "Пока Тень не достигла максимального рейтинга Надежды, все текущие баллы Тени можно заменить одним шрамом Тени. Шрам — постоянный балл Тени; снять его можно только в Йоль."
         }
       ],
@@ -123,11 +123,11 @@
       "pages": "137"
     },
     {
-      "id": "441HpfrG",
+      "id": "shadow-bout-of-madness",
       "section": "shadow",
       "parts": [
         {
-          "id": "SoUDp8fR",
+          "id": "shadow-bout-of-madness--text-1",
           "text": "Если Тень достигла максимума, герой избавляется от неё только через приступ безумия. Опишите его с учётом последнего источника Тени, Пути Тени и Изъянов героя.\n\nПриступ снимает текущие баллы Тени и продвигает героя по Пути Тени; постоянные шрамы Тени остаются. Приступ нужно разыграть в текущей Фазе приключений, иначе герой покидает отряд."
         }
       ],
@@ -136,11 +136,11 @@
       "pages": "139"
     },
     {
-      "id": "T7NrYN6c",
+      "id": "shadow-shadow-path",
       "section": "shadow",
       "parts": [
         {
-          "id": "5lSVXaCV",
+          "id": "shadow-shadow-path--text-1",
           "text": "Каждый приступ безумия продвигает героя на один шаг по Пути Тени и даёт новый Изъян. Получив четвёртый Изъян, герой ещё остаётся в игре. Когда его рейтинг Тени в следующий раз достигает максимального рейтинга Надежды, герой поддаётся Тени и покидает игру.\n\nЕсли Изъян может повлиять на проверяемый навык, бросок становится злополучным."
         }
       ],

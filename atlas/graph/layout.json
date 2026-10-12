@@ -1,606 +1,606 @@
 {
   "nodes": {
-    "G8jjZcYV": {
+    "checks-making-rolls": {
       "x": 75,
       "y": 95
     },
-    "new_base_pool": {
+    "checks-dice-pool": {
       "x": 535,
       "y": 95
     },
-    "hi7i1C3N": {
+    "checks-feat-die": {
       "x": 995,
       "y": 95
     },
-    "IOlLjtIx": {
+    "checks-target-number": {
       "x": 75,
       "y": 430
     },
-    "o53KDEBE": {
+    "checks-success-die": {
       "x": 535,
       "y": 430
     },
-    "4nQvEIQE": {
+    "checks-feat-die-special-results": {
       "x": 995,
       "y": 430
     },
-    "XcYk0L80": {
+    "checks-degrees-of-success": {
       "x": 75,
       "y": 820
     },
-    "xXkEqXRL": {
+    "checks-special-successes": {
       "x": 535,
       "y": 820
     },
-    "lK0vlqDu": {
+    "checks-bonus-success-dice": {
       "x": 75,
       "y": 1400
     },
-    "yT35XggA": {
+    "checks-hope-bonus": {
       "x": 535,
       "y": 1400
     },
-    "J1UsNHsZ": {
+    "checks-inspiration": {
       "x": 995,
       "y": 1400
     },
-    "2t5Sf7Dl": {
+    "checks-magical-success": {
       "x": 75,
       "y": 1710
     },
-    "gu1votkJ": {
+    "checks-penalty-success-dice": {
       "x": 535,
       "y": 1710
     },
-    "SWf7Jvwo": {
+    "checks-repeating-a-roll": {
       "x": 995,
       "y": 1710
     },
-    "XmoeTj86": {
+    "checks-support": {
       "x": 75,
       "y": 2060
     },
-    "kURqBhn9": {
+    "checks-favoured-and-ill-favoured-rolls": {
       "x": 535,
       "y": 2060
     },
-    "FGjP9n1h": {
+    "hero-attributes": {
       "x": 75,
       "y": 95
     },
-    "z7mA2lwC": {
+    "hero-derived-attributes": {
       "x": 535,
       "y": 95
     },
-    "UXrTt2lW": {
+    "hero-skills": {
       "x": 995,
       "y": 95
     },
-    "new_combat_skills": {
+    "hero-combat-proficiencies": {
       "x": 1455,
       "y": 95
     },
-    "yTeGQ2Ru": {
+    "hero-valour": {
       "x": 75,
       "y": 480
     },
-    "4iaoPg7jyedAgq6Bg9Ucq": {
+    "hero-wisdom": {
       "x": 535,
       "y": 480
     },
-    "uSzItYP0": {
+    "hero-skill-list": {
       "x": 995,
       "y": 480
     },
-    "iQpO6o6O": {
+    "hero-combat-proficiencies-and-weapons": {
       "x": 1455,
       "y": 480
     },
-    "gVwdNf0n": {
+    "hero-rewards": {
       "x": 75,
       "y": 830
     },
-    "i3cB4RGc": {
+    "hero-virtues": {
       "x": 535,
       "y": 830
     },
-    "ooqmW0CU": {
+    "hero-favoured-skill": {
       "x": 995,
       "y": 830
     },
-    "bt2WxY3G": {
+    "hero-brawling-weapons": {
       "x": 1455,
       "y": 830
     },
-    "e9rMhkTq": {
+    "hero-cultural-virtues": {
       "x": 535,
       "y": 1130
     },
-    "A6VF7sRT": {
+    "hero-distinctive-features": {
       "x": 995,
       "y": 1130
     },
-    "N8Cye3Rw": {
+    "creation-character-creation": {
       "x": 75,
       "y": 95
     },
-    "Zm6NVzT0": {
+    "creation-heroic-culture": {
       "x": 535,
       "y": 95
     },
-    "new_calling": {
+    "creation-calling": {
       "x": 535,
       "y": 430
     },
-    "Ay7ANsR9": {
+    "creation-previous-experience": {
       "x": 535,
       "y": 750
     },
-    "9jEOH49mp834xDMhXckp-": {
+    "creation-starting-gear": {
       "x": 535,
       "y": 1070
     },
-    "NJ5WkVnrKRziv83CZ5a5S": {
+    "creation-standard-of-living": {
       "x": 995,
       "y": 1070
     },
-    "jvZq962a": {
+    "creation-ponies-and-horses": {
       "x": 995,
       "y": 1400
     },
-    "kKL4N8Y3": {
+    "company-company": {
       "x": 75,
       "y": 95
     },
-    "pZYrdar2": {
+    "company-patron": {
       "x": 535,
       "y": 95
     },
-    "80REWUzP": {
+    "company-safe-haven": {
       "x": 535,
       "y": 500
     },
-    "XgmlAOcd": {
+    "company-fellowship-rating": {
       "x": 995,
       "y": 95
     },
-    "8rwchxSn": {
+    "company-fellowship-focus": {
       "x": 995,
       "y": 500
     },
-    "kjfqE1rG": {
+    "resources-endurance": {
       "x": 75,
       "y": 95
     },
-    "1xGI7k1d": {
+    "resources-conditions": {
       "x": 535,
       "y": 95
     },
-    "4TOYEF3h": {
+    "resources-hope": {
       "x": 995,
       "y": 95
     },
-    "MGwJWJft": {
+    "resources-recovering-endurance": {
       "x": 75,
       "y": 520
     },
-    "Qpv5oj9L": {
+    "resources-recovering-hope": {
       "x": 995,
       "y": 520
     },
-    "1d97umbn": {
+    "combat-combat": {
       "x": 75,
       "y": 95
     },
-    "QkZh2Hsg": {
+    "combat-surprise-attacks": {
       "x": 75,
       "y": 400
     },
-    "arzGKVhn": {
+    "combat-opening-volleys": {
       "x": 535,
       "y": 400
     },
-    "fTSnoJQY": {
+    "combat-close-quarters-rounds": {
       "x": 995,
       "y": 400
     },
-    "ZIDAreR3": {
+    "combat-fleeing": {
       "x": 1455,
       "y": 400
     },
-    "3fPDhhkV": {
+    "combat-stances": {
       "x": 75,
       "y": 800
     },
-    "hoyVQDQ9": {
+    "combat-engagement": {
       "x": 535,
       "y": 800
     },
-    "pTZfvCk4": {
+    "combat-combat-actions": {
       "x": 995,
       "y": 800
     },
-    "uoVahFab": {
+    "combat-forward-stance": {
       "x": 75,
       "y": 900
     },
-    "SNtIbWp3": {
+    "combat-open-stance": {
       "x": 535,
       "y": 900
     },
-    "idx4oahh": {
+    "combat-defensive-stance": {
       "x": 995,
       "y": 900
     },
-    "aczL2W3c": {
+    "combat-rearward-stance": {
       "x": 1455,
       "y": 900
     },
-    "Otpr5WAz": {
+    "combat-combat-tasks": {
       "x": 75,
       "y": 1250
     },
-    "G9qJAFnZ": {
+    "combat-action-examples": {
       "x": 1455,
       "y": 800
     },
-    "new_task_intimidate": {
+    "combat-intimidate-foe": {
       "x": 75,
       "y": 1600
     },
-    "new_task_rally": {
+    "combat-rally-comrades": {
       "x": 75,
       "y": 1600
     },
-    "new_task_protect": {
+    "combat-protect-companion": {
       "x": 75,
       "y": 1600
     },
-    "new_task_shot": {
+    "combat-prepare-shot": {
       "x": 75,
       "y": 1600
     },
-    "OjPDsYr0": {
+    "damage-resolving-attacks": {
       "x": 75,
       "y": 95
     },
-    "FNfZyWKO": {
+    "damage-knockback": {
       "x": 75,
       "y": 440
     },
-    "H2o1CaY9": {
+    "damage-brawling": {
       "x": 75,
       "y": 760
     },
-    "AJU7Mz3P": {
+    "damage-complications-and-advantages": {
       "x": 75,
       "y": 1050
     },
-    "NoLRRWjX": {
+    "damage-special-damage": {
       "x": 535,
       "y": 95
     },
-    "WpYHelZN": {
+    "damage-piercing-blow": {
       "x": 535,
       "y": 430
     },
-    "clZg0BDi": {
+    "damage-wounds": {
       "x": 995,
       "y": 95
     },
-    "0IeUYjhX": {
+    "damage-first-aid": {
       "x": 995,
       "y": 520
     },
-    "HB3xxTjy": {
+    "damage-dying": {
       "x": 995,
       "y": 850
     },
-    "P9P7Krkl": {
+    "council-council": {
       "x": 75,
       "y": 95
     },
-    "JXgZzO5m": {
+    "council-resistance": {
       "x": 535,
       "y": 95
     },
-    "T058KCZp": {
+    "council-introduction": {
       "x": 995,
       "y": 95
     },
-    "0kCpxGFy": {
+    "council-interaction": {
       "x": 1455,
       "y": 95
     },
-    "yjokMfIq": {
+    "council-end-of-council": {
       "x": 1455,
       "y": 500
     },
-    "XsWH6P9U": {
+    "council-roleplaying-bonuses": {
       "x": 75,
       "y": 500
     },
-    "IKifqDVX": {
+    "journey-journeys": {
       "x": 75,
       "y": 95
     },
-    "SdjXV4Rg": {
+    "journey-journey-sequence": {
       "x": 75,
       "y": 400
     },
-    "RmbGGFNg": {
+    "journey-journey-roles": {
       "x": 75,
       "y": 700
     },
-    "cvKmzIPk": {
+    "journey-journey-length": {
       "x": 75,
       "y": 1050
     },
-    "KCwmGGFa": {
+    "journey-forced-march": {
       "x": 75,
       "y": 1350
     },
-    "n9SCpkSL": {
+    "journey-perilous-areas": {
       "x": 75,
       "y": 1650
     },
-    "new_rest": {
+    "journey-resting": {
       "x": 1455,
       "y": 1100
     },
-    "HGdWKAjd": {
+    "journey-journey-path": {
       "x": 535,
       "y": 400
     },
-    "CrCLTTSA": {
+    "journey-marching-tests": {
       "x": 995,
       "y": 400
     },
-    "7szGboh9": {
+    "journey-journey-event-resolution": {
       "x": 995,
       "y": 720
     },
-    "IMmqCuD2": {
+    "journey-event-target-selection": {
       "x": 995,
       "y": 1000
     },
-    "81NjnIbN": {
+    "journey-determine-event": {
       "x": 995,
       "y": 1280
     },
-    "fBDZmNmm": {
+    "journey-event-outcome": {
       "x": 995,
       "y": 1560
     },
-    "WSZuQBgl": {
+    "journey-ending-journey": {
       "x": 1455,
       "y": 400
     },
-    "OVAag9d0": {
+    "journey-travel-fatigue": {
       "x": 1455,
       "y": 760
     },
-    "qudBqT4T": {
+    "fellowship-fellowship-phase": {
       "x": 75,
       "y": 95
     },
-    "155i8T3i": {
+    "fellowship-phase-duration": {
       "x": 75,
       "y": 430
     },
-    "65oGq573": {
+    "fellowship-advancement": {
       "x": 75,
       "y": 710
     },
-    "dkEvHKJy": {
+    "fellowship-spiritual-recovery": {
       "x": 1455,
       "y": 95
     },
-    "waZYle03": {
+    "fellowship-choose-location": {
       "x": 535,
       "y": 95
     },
-    "TClkt8L6": {
+    "fellowship-undertakings": {
       "x": 535,
       "y": 473
     },
-    "gITUE0ow": {
+    "fellowship-useful-item-changes": {
       "x": 995,
       "y": 786
     },
-    "FQgkZRBp": {
+    "fellowship-yule": {
       "x": 995,
       "y": 95
     },
-    "e7hrgNxP": {
+    "fellowship-change-distinctive-feature": {
       "x": 995,
       "y": 473
     },
-    "lXS63zDO": {
+    "keeper-loremaster": {
       "x": 75,
       "y": 95
     },
-    "ZU5N5jLq": {
+    "keeper-consequences-of-failure": {
       "x": 535,
       "y": 95
     },
-    "aM6zvGTz": {
+    "keeper-skill-endeavour": {
       "x": 995,
       "y": 95
     },
-    "IwZZF7R1": {
+    "keeper-sources-of-injury": {
       "x": 1455,
       "y": 95
     },
-    "j0rHRxpC": {
+    "keeper-loremaster-characters": {
       "x": 995,
       "y": 520
     },
-    "QO8tpWB7": {
+    "keeper-session-length": {
       "x": 75,
       "y": 520
     },
-    "xBZZJ1Wj": {
+    "keeper-experience": {
       "x": 535,
       "y": 520
     },
-    "1jqaSwE1": {
+    "shadow-shadow-points": {
       "x": 75,
       "y": 95
     },
-    "i7EzUszr": {
+    "shadow-shadow-test": {
       "x": 535,
       "y": 95
     },
-    "ClqRxdWb": {
+    "shadow-shadow-consequences": {
       "x": 995,
       "y": 95
     },
-    "1fjYbZYY": {
+    "shadow-dread": {
       "x": 75,
       "y": 470
     },
-    "ThCejAWr": {
+    "shadow-greed": {
       "x": 535,
       "y": 470
     },
-    "ohlxXHvL": {
+    "shadow-misdeeds": {
       "x": 995,
       "y": 470
     },
-    "Z799M3va": {
+    "shadow-sorcery": {
       "x": 1455,
       "y": 470
     },
-    "MgzfvKYs": {
+    "shadow-harden-will": {
       "x": 535,
       "y": 850
     },
-    "441HpfrG": {
+    "shadow-bout-of-madness": {
       "x": 995,
       "y": 850
     },
-    "T7NrYN6c": {
+    "shadow-shadow-path": {
       "x": 1455,
       "y": 850
     },
-    "aiaYdWAO": {
+    "enemies-adversaries": {
       "x": 75,
       "y": 95
     },
-    "Ckg8bfJd": {
+    "enemies-attribute-level": {
       "x": 75,
       "y": 500
     },
-    "38tfzLIU": {
+    "enemies-might-and-endurance": {
       "x": 535,
       "y": 500
     },
-    "4uScZRJk": {
+    "enemies-hate-and-resolve": {
       "x": 995,
       "y": 500
     },
-    "gXqe7lGv": {
+    "enemies-parry": {
       "x": 1455,
       "y": 500
     },
-    "viNFOTCM": {
+    "enemies-armour": {
       "x": 75,
       "y": 900
     },
-    "HxXwN2YM": {
+    "enemies-combat-proficiencies": {
       "x": 535,
       "y": 900
     },
-    "7MkS8gz0": {
+    "enemies-special-damage": {
       "x": 995,
       "y": 900
     },
-    "new_enemy_crushing_blow": {
+    "enemies-heavy-blow": {
       "x": 995,
       "y": 1250
     },
-    "obibhnYS": {
+    "enemies-fell-abilities": {
       "x": 1455,
       "y": 900
     },
-    "new_treasure_prepare": {
+    "treasure-preparing-treasure": {
       "x": 75,
       "y": 95
     },
-    "FB0unXZC": {
+    "treasure-treasure-index": {
       "x": 75,
       "y": 430
     },
-    "mw3r9Df7": {
+    "treasure-marvellous-artefacts-and-wondrous-items": {
       "x": 535,
       "y": 430
     },
-    "PgP7n1du": {
+    "treasure-creating-famous-weapons-and-armour": {
       "x": 75,
       "y": 850
     },
-    "31pT5PZP": {
+    "treasure-item-type": {
       "x": 75,
       "y": 1200
     },
-    "0zSpsVlu": {
+    "treasure-craftsmanship": {
       "x": 535,
       "y": 1200
     },
-    "rW3MBeZF": {
+    "treasure-bane": {
       "x": 995,
       "y": 1200
     },
-    "1IlMNimk": {
+    "treasure-add-rewards": {
       "x": 1455,
       "y": 1200
     },
-    "8tOTMXPS": {
+    "treasure-name-the-item": {
       "x": 1455,
       "y": 1550
     },
-    "new_treasure_award": {
+    "treasure-awarding-treasure": {
       "x": 75,
       "y": 1950
     },
-    "cbzeiMlv": {
+    "treasure-hoards": {
       "x": 75,
       "y": 2300
     },
-    "JDoVzpTk": {
+    "treasure-finding-magical-treasure": {
       "x": 535,
       "y": 2300
     },
-    "JXKKcVWe": {
+    "treasure-carrying-treasure": {
       "x": 995,
       "y": 2300
     },
-    "0JdqAWQa": {
+    "treasure-transporting-treasure": {
       "x": 1455,
       "y": 2300
     },
-    "ikIavgoY": {
+    "treasure-cursed-items": {
       "x": 535,
       "y": 2700
     },
-    "Odk6dwa0": {
+    "eye-eye-awareness": {
       "x": 75,
       "y": 95
     },
-    "IthSr4oj": {
+    "eye-starting-eye-awareness": {
       "x": 75,
       "y": 480
     },
-    "7fxQXeAb": {
+    "eye-company-composition": {
       "x": 75,
       "y": 850
     },
-    "tYvCniJj": {
+    "eye-increasing-eye-awareness": {
       "x": 535,
       "y": 480
     },
-    "new_eye_threshold": {
+    "eye-hunt-threshold": {
       "x": 995,
       "y": 480
     }
@@ -646,11 +646,11 @@
         "w": 900,
         "h": 1500,
         "nodes": [
-          "N8Cye3Rw",
-          "Zm6NVzT0",
-          "new_calling",
-          "Ay7ANsR9",
-          "9jEOH49mp834xDMhXckp-"
+          "creation-character-creation",
+          "creation-heroic-culture",
+          "creation-calling",
+          "creation-previous-experience",
+          "creation-starting-gear"
         ]
       },
       {
@@ -660,8 +660,8 @@
         "w": 500,
         "h": 650,
         "nodes": [
-          "NJ5WkVnrKRziv83CZ5a5S",
-          "jvZq962a"
+          "creation-standard-of-living",
+          "creation-ponies-and-horses"
         ]
       }
     ],
@@ -671,8 +671,7 @@
         "x": 28,
         "y": 25,
         "w": 1420,
-        "h": 980,
-        "hidden": true
+        "h": 980
       }
     ],
     "resources": [
@@ -681,8 +680,7 @@
         "x": 28,
         "y": 25,
         "w": 1420,
-        "h": 900,
-        "hidden": true
+        "h": 900
       }
     ],
     "combat": [
@@ -693,11 +691,11 @@
         "w": 1880,
         "h": 700,
         "nodes": [
-          "1d97umbn",
-          "QkZh2Hsg",
-          "arzGKVhn",
-          "fTSnoJQY",
-          "ZIDAreR3"
+          "combat-combat",
+          "combat-surprise-attacks",
+          "combat-opening-volleys",
+          "combat-close-quarters-rounds",
+          "combat-fleeing"
         ]
       },
       {
@@ -707,14 +705,14 @@
         "w": 1880,
         "h": 800,
         "nodes": [
-          "3fPDhhkV",
-          "hoyVQDQ9",
-          "pTZfvCk4",
-          "G9qJAFnZ",
-          "uoVahFab",
-          "SNtIbWp3",
-          "idx4oahh",
-          "aczL2W3c"
+          "combat-stances",
+          "combat-engagement",
+          "combat-combat-actions",
+          "combat-action-examples",
+          "combat-forward-stance",
+          "combat-open-stance",
+          "combat-defensive-stance",
+          "combat-rearward-stance"
         ]
       },
       {
@@ -724,11 +722,11 @@
         "w": 440,
         "h": 950,
         "nodes": [
-          "Otpr5WAz",
-          "new_task_intimidate",
-          "new_task_rally",
-          "new_task_protect",
-          "new_task_shot"
+          "combat-combat-tasks",
+          "combat-intimidate-foe",
+          "combat-rally-comrades",
+          "combat-protect-companion",
+          "combat-prepare-shot"
         ]
       }
     ],
@@ -740,12 +738,12 @@
         "w": 900,
         "h": 1200,
         "nodes": [
-          "OjPDsYr0",
-          "FNfZyWKO",
-          "H2o1CaY9",
-          "AJU7Mz3P",
-          "NoLRRWjX",
-          "WpYHelZN"
+          "damage-resolving-attacks",
+          "damage-knockback",
+          "damage-brawling",
+          "damage-complications-and-advantages",
+          "damage-special-damage",
+          "damage-piercing-blow"
         ]
       },
       {
@@ -755,9 +753,9 @@
         "w": 440,
         "h": 1200,
         "nodes": [
-          "clZg0BDi",
-          "0IeUYjhX",
-          "HB3xxTjy"
+          "damage-wounds",
+          "damage-first-aid",
+          "damage-dying"
         ]
       }
     ],
@@ -767,8 +765,7 @@
         "x": 28,
         "y": 25,
         "w": 1880,
-        "h": 750,
-        "hidden": true
+        "h": 750
       }
     ],
     "journey": [
@@ -779,13 +776,13 @@
         "w": 900,
         "h": 1550,
         "nodes": [
-          "IKifqDVX",
-          "SdjXV4Rg",
-          "RmbGGFNg",
-          "HGdWKAjd",
-          "cvKmzIPk",
-          "KCwmGGFa",
-          "n9SCpkSL"
+          "journey-journeys",
+          "journey-journey-sequence",
+          "journey-journey-roles",
+          "journey-journey-path",
+          "journey-journey-length",
+          "journey-forced-march",
+          "journey-perilous-areas"
         ]
       },
       {
@@ -795,11 +792,11 @@
         "w": 440,
         "h": 1550,
         "nodes": [
-          "CrCLTTSA",
-          "7szGboh9",
-          "IMmqCuD2",
-          "81NjnIbN",
-          "fBDZmNmm"
+          "journey-marching-tests",
+          "journey-journey-event-resolution",
+          "journey-event-target-selection",
+          "journey-determine-event",
+          "journey-event-outcome"
         ]
       },
       {
@@ -809,9 +806,9 @@
         "w": 440,
         "h": 1100,
         "nodes": [
-          "WSZuQBgl",
-          "OVAag9d0",
-          "new_rest"
+          "journey-ending-journey",
+          "journey-travel-fatigue",
+          "journey-resting"
         ]
       }
     ],
@@ -823,11 +820,11 @@
         "w": 900,
         "h": 1500,
         "nodes": [
-          "qudBqT4T",
-          "155i8T3i",
-          "waZYle03",
-          "65oGq573",
-          "TClkt8L6"
+          "fellowship-fellowship-phase",
+          "fellowship-phase-duration",
+          "fellowship-choose-location",
+          "fellowship-advancement",
+          "fellowship-undertakings"
         ]
       },
       {
@@ -837,10 +834,10 @@
         "w": 1380,
         "h": 1500,
         "nodes": [
-          "FQgkZRBp",
-          "e7hrgNxP",
-          "gITUE0ow",
-          "dkEvHKJy"
+          "fellowship-yule",
+          "fellowship-change-distinctive-feature",
+          "fellowship-useful-item-changes",
+          "fellowship-spiritual-recovery"
         ]
       }
     ],
@@ -850,8 +847,7 @@
         "x": 28,
         "y": 25,
         "w": 1880,
-        "h": 950,
-        "hidden": true
+        "h": 950
       }
     ],
     "shadow": [
@@ -862,9 +858,9 @@
         "w": 1360,
         "h": 450,
         "nodes": [
-          "1jqaSwE1",
-          "i7EzUszr",
-          "ClqRxdWb"
+          "shadow-shadow-points",
+          "shadow-shadow-test",
+          "shadow-shadow-consequences"
         ]
       },
       {
@@ -874,10 +870,10 @@
         "w": 1820,
         "h": 450,
         "nodes": [
-          "1fjYbZYY",
-          "ThCejAWr",
-          "ohlxXHvL",
-          "Z799M3va"
+          "shadow-dread",
+          "shadow-greed",
+          "shadow-misdeeds",
+          "shadow-sorcery"
         ]
       },
       {
@@ -887,9 +883,9 @@
         "w": 1360,
         "h": 450,
         "nodes": [
-          "MgzfvKYs",
-          "441HpfrG",
-          "T7NrYN6c"
+          "shadow-harden-will",
+          "shadow-bout-of-madness",
+          "shadow-shadow-path"
         ]
       }
     ],
@@ -899,8 +895,7 @@
         "x": 28,
         "y": 25,
         "w": 1880,
-        "h": 1450,
-        "hidden": true
+        "h": 1450
       }
     ],
     "treasure": [
@@ -911,15 +906,15 @@
         "w": 1880,
         "h": 1500,
         "nodes": [
-          "new_treasure_prepare",
-          "FB0unXZC",
-          "mw3r9Df7",
-          "PgP7n1du",
-          "31pT5PZP",
-          "0zSpsVlu",
-          "rW3MBeZF",
-          "1IlMNimk",
-          "8tOTMXPS"
+          "treasure-preparing-treasure",
+          "treasure-treasure-index",
+          "treasure-marvellous-artefacts-and-wondrous-items",
+          "treasure-creating-famous-weapons-and-armour",
+          "treasure-item-type",
+          "treasure-craftsmanship",
+          "treasure-bane",
+          "treasure-add-rewards",
+          "treasure-name-the-item"
         ]
       },
       {
@@ -929,12 +924,12 @@
         "w": 1880,
         "h": 1000,
         "nodes": [
-          "new_treasure_award",
-          "cbzeiMlv",
-          "JDoVzpTk",
-          "JXKKcVWe",
-          "0JdqAWQa",
-          "ikIavgoY"
+          "treasure-awarding-treasure",
+          "treasure-hoards",
+          "treasure-finding-magical-treasure",
+          "treasure-carrying-treasure",
+          "treasure-transporting-treasure",
+          "treasure-cursed-items"
         ]
       }
     ],
@@ -944,8 +939,7 @@
         "x": 28,
         "y": 25,
         "w": 1880,
-        "h": 1000,
-        "hidden": true
+        "h": 1000
       }
     ]
   }

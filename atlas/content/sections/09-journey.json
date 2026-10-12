@@ -5,30 +5,30 @@
     "desc": "Маршрут, роли, сцены и изнурение",
     "number": "09",
     "nodes": [
-      "IKifqDVX",
-      "SdjXV4Rg",
-      "RmbGGFNg",
-      "cvKmzIPk",
-      "KCwmGGFa",
-      "n9SCpkSL",
-      "new_rest",
-      "HGdWKAjd",
-      "CrCLTTSA",
-      "7szGboh9",
-      "IMmqCuD2",
-      "81NjnIbN",
-      "fBDZmNmm",
-      "WSZuQBgl",
-      "OVAag9d0"
+      "journey-journeys",
+      "journey-journey-sequence",
+      "journey-journey-roles",
+      "journey-journey-length",
+      "journey-forced-march",
+      "journey-perilous-areas",
+      "journey-resting",
+      "journey-journey-path",
+      "journey-marching-tests",
+      "journey-journey-event-resolution",
+      "journey-event-target-selection",
+      "journey-determine-event",
+      "journey-event-outcome",
+      "journey-ending-journey",
+      "journey-travel-fatigue"
     ]
   },
   "nodes": [
     {
-      "id": "IKifqDVX",
+      "id": "journey-journeys",
       "section": "journey",
       "parts": [
         {
-          "id": "mafjv6ya",
+          "id": "journey-journeys--text-1",
           "text": "Рекомендуется использовать журнал путешествия. Мало кто знает о местах дальше двух дней пути; редкие охотники забредают так далеко."
         }
       ],
@@ -37,11 +37,11 @@
       "pages": "108"
     },
     {
-      "id": "SdjXV4Rg",
+      "id": "journey-journey-sequence",
       "section": "journey",
       "parts": [
         {
-          "id": "K14SRMfB",
+          "id": "journey-journey-sequence--text-1",
           "text": "• Выбор маршрута.\n• Испытания похода.\n• Завершение путешествия."
         }
       ],
@@ -50,11 +50,11 @@
       "pages": "109"
     },
     {
-      "id": "RmbGGFNg",
+      "id": "journey-journey-roles",
       "section": "journey",
       "parts": [
         {
-          "id": "yaN72uzL",
+          "id": "journey-journey-roles--text-1",
           "text": "В начале путешествия распределите роли:\n• Проводник — отвечает за маршрут, отдых и припасы.\n• Охотник — за добычу.\n• Дозорный — несёт стражу.\n• Разведчик — обустраивает лагерь и ищет тропы.\n\nЕсли героев больше четырёх, одну роль могут выполнять несколько героев. Проводник всегда один. Если героев меньше четырёх, герои совмещают роли; Проводник тоже может взять вторую роль."
         }
       ],
@@ -63,11 +63,11 @@
       "pages": "109"
     },
     {
-      "id": "cvKmzIPk",
+      "id": "journey-journey-length",
       "section": "journey",
       "parts": [
         {
-          "id": "tBBWcG7U",
+          "id": "journey-journey-length--text-1",
           "text": "Длительность путешествия в днях равна числу гексов маршрута плюс 1 за каждый гекс со сложным рельефом: холмами, горами, лесом или болотами. При путешествии верхом результат делится пополам с округлением вверх."
         }
       ],
@@ -76,11 +76,11 @@
       "pages": "111"
     },
     {
-      "id": "KCwmGGFa",
+      "id": "journey-forced-march",
       "section": "journey",
       "parts": [
         {
-          "id": "PJ6KT5LE",
+          "id": "journey-forced-march--text-1",
           "text": "За день марш-броска отряд проходит 2 гекса вместо 1, но каждый герой получает 1 дополнительное Изнурение."
         }
       ],
@@ -89,11 +89,11 @@
       "pages": "111"
     },
     {
-      "id": "n9SCpkSL",
+      "id": "journey-perilous-areas",
       "section": "journey",
       "parts": [
         {
-          "id": "PuB0zH00",
+          "id": "journey-perilous-areas--text-1",
           "text": "В опасной зоне отряд прекращает обычное продвижение и разыгрывает число сцен, равное её рейтингу опасности. Затем Испытания похода продолжаются за пределами зоны."
         }
       ],
@@ -102,11 +102,11 @@
       "pages": "111"
     },
     {
-      "id": "new_rest",
+      "id": "journey-resting",
       "section": "journey",
       "parts": [
         {
-          "id": "NEW_REST",
+          "id": "journey-resting--text-1",
           "text": "Короткий отдых\n• Обычно не более одного раза за день приключений, как правило, в середине дня.\n• Длится не менее 1 часа.\n• Нераненый герой восстанавливает Выносливость в размере Силы.\n• Раненый герой не восстанавливает Выносливость.\n\nДолгий отдых\n• Обычно один раз в день, во время ночного сна. В безопасном и комфортном месте Хранитель может разрешить дополнительные долгие отдыхи.\n• Нераненый герой восстанавливает всю потерянную Выносливость.\n• Раненый герой восстанавливает Выносливость в размере Силы.\n• Герой с Надеждой 0 восстанавливает 1 балл Надежды.\n• После завершения путешествия долгий отдых в спокойном и защищённом месте снимает 1 балл Изнурения."
         }
       ],
@@ -115,11 +115,11 @@
       "pages": "71, 111"
     },
     {
-      "id": "HGdWKAjd",
+      "id": "journey-journey-path",
       "section": "journey",
       "parts": [
         {
-          "id": "WPBmO2RY",
+          "id": "journey-journey-path--text-1",
           "text": "Игроки показывают на карте без гексов, как будет проходить маршрут. Затем Хранитель прокладывает его на карте с гексами и отмечает в журнале. Маршрут длиннее 20 гексов Хранитель делит на этапы; каждый этап считается отдельным путешествием."
         }
       ],
@@ -128,11 +128,11 @@
       "pages": "109"
     },
     {
-      "id": "CrCLTTSA",
+      "id": "journey-marching-tests",
       "section": "journey",
       "parts": [
         {
-          "id": "1mzKRnkP",
+          "id": "journey-marching-tests--text-1",
           "text": "Проводник проверяет СТРАНСТВИЕ. При провале сцена происходит через 2 гекса весной и летом или через 1 гекс осенью и зимой. При успехе — через 3 гекса и ещё 1 за каждый знак успеха. На достигнутом гексе происходит сцена."
         }
       ],
@@ -141,11 +141,11 @@
       "pages": "110"
     },
     {
-      "id": "7szGboh9",
+      "id": "journey-journey-event-resolution",
       "section": "journey",
       "parts": [
         {
-          "id": "E7niR6Xa",
+          "id": "journey-journey-event-resolution--text-1",
           "text": "1. Выбор цели.\n2. Определение сцены.\n3. Определение результата сцены."
         }
       ],
@@ -154,11 +154,11 @@
       "pages": "112"
     },
     {
-      "id": "IMmqCuD2",
+      "id": "journey-event-target-selection",
       "section": "journey",
       "parts": [
         {
-          "id": "pksZ1hmD",
+          "id": "journey-event-target-selection--text-1",
           "text": "Хранитель бросает Кость успеха (к6), чтобы выбрать цель сцены."
         }
       ],
@@ -167,11 +167,11 @@
       "pages": "112"
     },
     {
-      "id": "81NjnIbN",
+      "id": "journey-determine-event",
       "section": "journey",
       "parts": [
         {
-          "id": "WlemvOzU",
+          "id": "journey-determine-event--text-1",
           "text": "Хранитель бросает Кость испытания (к12):\n• в Пограничных землях — благополучно;\n• в Диких землях — обычно;\n• в Тёмных землях — злополучно."
         }
       ],
@@ -180,11 +180,11 @@
       "pages": "112–113"
     },
     {
-      "id": "fBDZmNmm",
+      "id": "journey-event-outcome",
       "section": "journey",
       "parts": [
         {
-          "id": "C2FiYiEK",
+          "id": "journey-event-outcome--text-1",
           "text": "Цель сцены проверяет соответствующий навык. Ещё один герой той же роли может помочь. Последствия успеха или провала определяются по таблице сцены. На дороге герой получает +1к, на сложном рельефе — −1к."
         }
       ],
@@ -193,11 +193,11 @@
       "pages": "113"
     },
     {
-      "id": "WSZuQBgl",
+      "id": "journey-ending-journey",
       "section": "journey",
       "parts": [
         {
-          "id": "tzZsv8mS",
+          "id": "journey-ending-journey--text-1",
           "text": "Путешествие завершается, когда результат Испытания похода равен числу оставшихся до цели гексов или превышает его. То есть от последней сцены до цели остаётся не больше гексов, чем выпало у Проводника."
         }
       ],
@@ -206,11 +206,11 @@
       "pages": "111"
     },
     {
-      "id": "OVAag9d0",
+      "id": "journey-travel-fatigue",
       "section": "journey",
       "parts": [
         {
-          "id": "rJQSnXMO",
+          "id": "journey-travel-fatigue--text-1",
           "text": "За каждую сцену герои получают Изнурение, которое записывают в конце путешествия. Перед записью его можно снизить:\n• на рейтинг Тяги скакуна;\n• проверкой СТРАНСТВИЯ — на 1 при успехе и ещё на 1 за каждый знак успеха.\n\nВне пути герой снимает 1 Изнурение за каждый долгий отдых в спокойном и защищённом месте."
         }
       ],
