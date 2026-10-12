@@ -1,0 +1,7 @@
+.card .listlinks{display:none}.view-list .card .listlinks{display:flex}
+header{border-bottom:3px double #c3a88e}.sectionhead{border-bottom:3px double #c3a88e}
+.cluster:before{display:none}.cluster-hidden{display:none}.cluster-label{position:absolute;z-index:3;background:#f5f0e5;padding:0 10px;color:#9a694f;font:11px Georgia,serif;letter-spacing:1.2px;text-transform:uppercase;white-space:nowrap}.view-list .cluster-label{display:none}
+.hero:before{content:'◇ ─── ◆ ─── ◇';display:block;color:#b25d4b;letter-spacing:4px;font-size:13px;margin-bottom:18px}
+.tile .index{position:absolute;right:20px;top:19px;float:none}.tile h2{margin-right:0;padding-right:48px}
+.card.has-table{width:450px}.card-table{width:100%;border-collapse:collapse;table-layout:fixed;font:11px/1.35 'Segoe UI',sans-serif}.card-table th,.card-table td{padding:5px 4px;border-bottom:1px solid #e4d9c7;vertical-align:top;overflow-wrap:anywhere}.card-table th{color:#715f49;text-align:left;font-size:10px;text-transform:uppercase;letter-spacing:.25px}.card-table tr:nth-child(odd) td{background:#f6f0e7}.card-table.two-col th:first-child,.card-table.two-col td:first-child{width:39%;font-weight:600}.card-table.four-col th,.card-table.four-col td{width:24%}.card-table.four-col th:nth-child(2),.card-table.four-col td:nth-child(2){width:28%}.card-table.four-col td:last-child{color:#715f49}.card-table.eye-table th:last-child,.card-table.eye-table td:last-child{width:29%;text-align:center}
+@media(max-width:700px){.tile h2{font-size:20px}}

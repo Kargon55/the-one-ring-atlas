@@ -1,0 +1,952 @@
+{
+  "nodes": {
+    "G8jjZcYV": {
+      "x": 75,
+      "y": 95
+    },
+    "new_base_pool": {
+      "x": 535,
+      "y": 95
+    },
+    "hi7i1C3N": {
+      "x": 995,
+      "y": 95
+    },
+    "IOlLjtIx": {
+      "x": 75,
+      "y": 430
+    },
+    "o53KDEBE": {
+      "x": 535,
+      "y": 430
+    },
+    "4nQvEIQE": {
+      "x": 995,
+      "y": 430
+    },
+    "XcYk0L80": {
+      "x": 75,
+      "y": 820
+    },
+    "xXkEqXRL": {
+      "x": 535,
+      "y": 820
+    },
+    "lK0vlqDu": {
+      "x": 75,
+      "y": 1400
+    },
+    "yT35XggA": {
+      "x": 535,
+      "y": 1400
+    },
+    "J1UsNHsZ": {
+      "x": 995,
+      "y": 1400
+    },
+    "2t5Sf7Dl": {
+      "x": 75,
+      "y": 1710
+    },
+    "gu1votkJ": {
+      "x": 535,
+      "y": 1710
+    },
+    "SWf7Jvwo": {
+      "x": 995,
+      "y": 1710
+    },
+    "XmoeTj86": {
+      "x": 75,
+      "y": 2060
+    },
+    "kURqBhn9": {
+      "x": 535,
+      "y": 2060
+    },
+    "FGjP9n1h": {
+      "x": 75,
+      "y": 95
+    },
+    "z7mA2lwC": {
+      "x": 535,
+      "y": 95
+    },
+    "UXrTt2lW": {
+      "x": 995,
+      "y": 95
+    },
+    "new_combat_skills": {
+      "x": 1455,
+      "y": 95
+    },
+    "yTeGQ2Ru": {
+      "x": 75,
+      "y": 480
+    },
+    "4iaoPg7jyedAgq6Bg9Ucq": {
+      "x": 535,
+      "y": 480
+    },
+    "uSzItYP0": {
+      "x": 995,
+      "y": 480
+    },
+    "iQpO6o6O": {
+      "x": 1455,
+      "y": 480
+    },
+    "gVwdNf0n": {
+      "x": 75,
+      "y": 830
+    },
+    "i3cB4RGc": {
+      "x": 535,
+      "y": 830
+    },
+    "ooqmW0CU": {
+      "x": 995,
+      "y": 830
+    },
+    "bt2WxY3G": {
+      "x": 1455,
+      "y": 830
+    },
+    "e9rMhkTq": {
+      "x": 535,
+      "y": 1130
+    },
+    "A6VF7sRT": {
+      "x": 995,
+      "y": 1130
+    },
+    "N8Cye3Rw": {
+      "x": 75,
+      "y": 95
+    },
+    "Zm6NVzT0": {
+      "x": 535,
+      "y": 95
+    },
+    "new_calling": {
+      "x": 535,
+      "y": 430
+    },
+    "Ay7ANsR9": {
+      "x": 535,
+      "y": 750
+    },
+    "9jEOH49mp834xDMhXckp-": {
+      "x": 535,
+      "y": 1070
+    },
+    "NJ5WkVnrKRziv83CZ5a5S": {
+      "x": 995,
+      "y": 1070
+    },
+    "jvZq962a": {
+      "x": 995,
+      "y": 1400
+    },
+    "kKL4N8Y3": {
+      "x": 75,
+      "y": 95
+    },
+    "pZYrdar2": {
+      "x": 535,
+      "y": 95
+    },
+    "80REWUzP": {
+      "x": 535,
+      "y": 500
+    },
+    "XgmlAOcd": {
+      "x": 995,
+      "y": 95
+    },
+    "8rwchxSn": {
+      "x": 995,
+      "y": 500
+    },
+    "kjfqE1rG": {
+      "x": 75,
+      "y": 95
+    },
+    "1xGI7k1d": {
+      "x": 535,
+      "y": 95
+    },
+    "4TOYEF3h": {
+      "x": 995,
+      "y": 95
+    },
+    "MGwJWJft": {
+      "x": 75,
+      "y": 520
+    },
+    "Qpv5oj9L": {
+      "x": 995,
+      "y": 520
+    },
+    "1d97umbn": {
+      "x": 75,
+      "y": 95
+    },
+    "QkZh2Hsg": {
+      "x": 75,
+      "y": 400
+    },
+    "arzGKVhn": {
+      "x": 535,
+      "y": 400
+    },
+    "fTSnoJQY": {
+      "x": 995,
+      "y": 400
+    },
+    "ZIDAreR3": {
+      "x": 1455,
+      "y": 400
+    },
+    "3fPDhhkV": {
+      "x": 75,
+      "y": 800
+    },
+    "hoyVQDQ9": {
+      "x": 535,
+      "y": 800
+    },
+    "pTZfvCk4": {
+      "x": 995,
+      "y": 800
+    },
+    "uoVahFab": {
+      "x": 75,
+      "y": 900
+    },
+    "SNtIbWp3": {
+      "x": 535,
+      "y": 900
+    },
+    "idx4oahh": {
+      "x": 995,
+      "y": 900
+    },
+    "aczL2W3c": {
+      "x": 1455,
+      "y": 900
+    },
+    "Otpr5WAz": {
+      "x": 75,
+      "y": 1250
+    },
+    "G9qJAFnZ": {
+      "x": 1455,
+      "y": 800
+    },
+    "new_task_intimidate": {
+      "x": 75,
+      "y": 1600
+    },
+    "new_task_rally": {
+      "x": 75,
+      "y": 1600
+    },
+    "new_task_protect": {
+      "x": 75,
+      "y": 1600
+    },
+    "new_task_shot": {
+      "x": 75,
+      "y": 1600
+    },
+    "OjPDsYr0": {
+      "x": 75,
+      "y": 95
+    },
+    "FNfZyWKO": {
+      "x": 75,
+      "y": 440
+    },
+    "H2o1CaY9": {
+      "x": 75,
+      "y": 760
+    },
+    "AJU7Mz3P": {
+      "x": 75,
+      "y": 1050
+    },
+    "NoLRRWjX": {
+      "x": 535,
+      "y": 95
+    },
+    "WpYHelZN": {
+      "x": 535,
+      "y": 430
+    },
+    "clZg0BDi": {
+      "x": 995,
+      "y": 95
+    },
+    "0IeUYjhX": {
+      "x": 995,
+      "y": 520
+    },
+    "HB3xxTjy": {
+      "x": 995,
+      "y": 850
+    },
+    "P9P7Krkl": {
+      "x": 75,
+      "y": 95
+    },
+    "JXgZzO5m": {
+      "x": 535,
+      "y": 95
+    },
+    "T058KCZp": {
+      "x": 995,
+      "y": 95
+    },
+    "0kCpxGFy": {
+      "x": 1455,
+      "y": 95
+    },
+    "yjokMfIq": {
+      "x": 1455,
+      "y": 500
+    },
+    "XsWH6P9U": {
+      "x": 75,
+      "y": 500
+    },
+    "IKifqDVX": {
+      "x": 75,
+      "y": 95
+    },
+    "SdjXV4Rg": {
+      "x": 75,
+      "y": 400
+    },
+    "RmbGGFNg": {
+      "x": 75,
+      "y": 700
+    },
+    "cvKmzIPk": {
+      "x": 75,
+      "y": 1050
+    },
+    "KCwmGGFa": {
+      "x": 75,
+      "y": 1350
+    },
+    "n9SCpkSL": {
+      "x": 75,
+      "y": 1650
+    },
+    "new_rest": {
+      "x": 1455,
+      "y": 1100
+    },
+    "HGdWKAjd": {
+      "x": 535,
+      "y": 400
+    },
+    "CrCLTTSA": {
+      "x": 995,
+      "y": 400
+    },
+    "7szGboh9": {
+      "x": 995,
+      "y": 720
+    },
+    "IMmqCuD2": {
+      "x": 995,
+      "y": 1000
+    },
+    "81NjnIbN": {
+      "x": 995,
+      "y": 1280
+    },
+    "fBDZmNmm": {
+      "x": 995,
+      "y": 1560
+    },
+    "WSZuQBgl": {
+      "x": 1455,
+      "y": 400
+    },
+    "OVAag9d0": {
+      "x": 1455,
+      "y": 760
+    },
+    "qudBqT4T": {
+      "x": 75,
+      "y": 95
+    },
+    "155i8T3i": {
+      "x": 75,
+      "y": 430
+    },
+    "65oGq573": {
+      "x": 75,
+      "y": 710
+    },
+    "dkEvHKJy": {
+      "x": 1455,
+      "y": 95
+    },
+    "waZYle03": {
+      "x": 535,
+      "y": 95
+    },
+    "TClkt8L6": {
+      "x": 535,
+      "y": 473
+    },
+    "gITUE0ow": {
+      "x": 995,
+      "y": 786
+    },
+    "FQgkZRBp": {
+      "x": 995,
+      "y": 95
+    },
+    "e7hrgNxP": {
+      "x": 995,
+      "y": 473
+    },
+    "lXS63zDO": {
+      "x": 75,
+      "y": 95
+    },
+    "ZU5N5jLq": {
+      "x": 535,
+      "y": 95
+    },
+    "aM6zvGTz": {
+      "x": 995,
+      "y": 95
+    },
+    "IwZZF7R1": {
+      "x": 1455,
+      "y": 95
+    },
+    "j0rHRxpC": {
+      "x": 995,
+      "y": 520
+    },
+    "QO8tpWB7": {
+      "x": 75,
+      "y": 520
+    },
+    "xBZZJ1Wj": {
+      "x": 535,
+      "y": 520
+    },
+    "1jqaSwE1": {
+      "x": 75,
+      "y": 95
+    },
+    "i7EzUszr": {
+      "x": 535,
+      "y": 95
+    },
+    "ClqRxdWb": {
+      "x": 995,
+      "y": 95
+    },
+    "1fjYbZYY": {
+      "x": 75,
+      "y": 470
+    },
+    "ThCejAWr": {
+      "x": 535,
+      "y": 470
+    },
+    "ohlxXHvL": {
+      "x": 995,
+      "y": 470
+    },
+    "Z799M3va": {
+      "x": 1455,
+      "y": 470
+    },
+    "MgzfvKYs": {
+      "x": 535,
+      "y": 850
+    },
+    "441HpfrG": {
+      "x": 995,
+      "y": 850
+    },
+    "T7NrYN6c": {
+      "x": 1455,
+      "y": 850
+    },
+    "aiaYdWAO": {
+      "x": 75,
+      "y": 95
+    },
+    "Ckg8bfJd": {
+      "x": 75,
+      "y": 500
+    },
+    "38tfzLIU": {
+      "x": 535,
+      "y": 500
+    },
+    "4uScZRJk": {
+      "x": 995,
+      "y": 500
+    },
+    "gXqe7lGv": {
+      "x": 1455,
+      "y": 500
+    },
+    "viNFOTCM": {
+      "x": 75,
+      "y": 900
+    },
+    "HxXwN2YM": {
+      "x": 535,
+      "y": 900
+    },
+    "7MkS8gz0": {
+      "x": 995,
+      "y": 900
+    },
+    "new_enemy_crushing_blow": {
+      "x": 995,
+      "y": 1250
+    },
+    "obibhnYS": {
+      "x": 1455,
+      "y": 900
+    },
+    "new_treasure_prepare": {
+      "x": 75,
+      "y": 95
+    },
+    "FB0unXZC": {
+      "x": 75,
+      "y": 430
+    },
+    "mw3r9Df7": {
+      "x": 535,
+      "y": 430
+    },
+    "PgP7n1du": {
+      "x": 75,
+      "y": 850
+    },
+    "31pT5PZP": {
+      "x": 75,
+      "y": 1200
+    },
+    "0zSpsVlu": {
+      "x": 535,
+      "y": 1200
+    },
+    "rW3MBeZF": {
+      "x": 995,
+      "y": 1200
+    },
+    "1IlMNimk": {
+      "x": 1455,
+      "y": 1200
+    },
+    "8tOTMXPS": {
+      "x": 1455,
+      "y": 1550
+    },
+    "new_treasure_award": {
+      "x": 75,
+      "y": 1950
+    },
+    "cbzeiMlv": {
+      "x": 75,
+      "y": 2300
+    },
+    "JDoVzpTk": {
+      "x": 535,
+      "y": 2300
+    },
+    "JXKKcVWe": {
+      "x": 995,
+      "y": 2300
+    },
+    "0JdqAWQa": {
+      "x": 1455,
+      "y": 2300
+    },
+    "ikIavgoY": {
+      "x": 535,
+      "y": 2700
+    },
+    "Odk6dwa0": {
+      "x": 75,
+      "y": 95
+    },
+    "IthSr4oj": {
+      "x": 75,
+      "y": 480
+    },
+    "7fxQXeAb": {
+      "x": 75,
+      "y": 850
+    },
+    "tYvCniJj": {
+      "x": 535,
+      "y": 480
+    },
+    "new_eye_threshold": {
+      "x": 995,
+      "y": 480
+    }
+  },
+  "clusters": {
+    "checks": [
+      {
+        "title": "Основа проверки",
+        "x": 28,
+        "y": 25,
+        "w": 1430,
+        "h": 1230
+      },
+      {
+        "title": "Модификаторы и особые возможности",
+        "x": 28,
+        "y": 1320,
+        "w": 1430,
+        "h": 1120
+      }
+    ],
+    "hero": [
+      {
+        "title": "Характеристики и развитие",
+        "x": 28,
+        "y": 25,
+        "w": 900,
+        "h": 1480
+      },
+      {
+        "title": "Навыки и умения",
+        "x": 948,
+        "y": 25,
+        "w": 1040,
+        "h": 1480
+      }
+    ],
+    "creation": [
+      {
+        "title": "Путь создания героя",
+        "x": 28,
+        "y": 25,
+        "w": 900,
+        "h": 1500,
+        "nodes": [
+          "N8Cye3Rw",
+          "Zm6NVzT0",
+          "new_calling",
+          "Ay7ANsR9",
+          "9jEOH49mp834xDMhXckp-"
+        ]
+      },
+      {
+        "title": "Дополнительно",
+        "x": 948,
+        "y": 1000,
+        "w": 500,
+        "h": 650,
+        "nodes": [
+          "NJ5WkVnrKRziv83CZ5a5S",
+          "jvZq962a"
+        ]
+      }
+    ],
+    "company": [
+      {
+        "title": "",
+        "x": 28,
+        "y": 25,
+        "w": 1420,
+        "h": 980,
+        "hidden": true
+      }
+    ],
+    "resources": [
+      {
+        "title": "",
+        "x": 28,
+        "y": 25,
+        "w": 1420,
+        "h": 900,
+        "hidden": true
+      }
+    ],
+    "combat": [
+      {
+        "title": "Ход боя",
+        "x": 28,
+        "y": 25,
+        "w": 1880,
+        "h": 700,
+        "nodes": [
+          "1d97umbn",
+          "QkZh2Hsg",
+          "arzGKVhn",
+          "fTSnoJQY",
+          "ZIDAreR3"
+        ]
+      },
+      {
+        "title": "Раунд и позиции",
+        "x": 28,
+        "y": 700,
+        "w": 1880,
+        "h": 800,
+        "nodes": [
+          "3fPDhhkV",
+          "hoyVQDQ9",
+          "pTZfvCk4",
+          "G9qJAFnZ",
+          "uoVahFab",
+          "SNtIbWp3",
+          "idx4oahh",
+          "aczL2W3c"
+        ]
+      },
+      {
+        "title": "Боевые задачи",
+        "x": 28,
+        "y": 1500,
+        "w": 440,
+        "h": 950,
+        "nodes": [
+          "Otpr5WAz",
+          "new_task_intimidate",
+          "new_task_rally",
+          "new_task_protect",
+          "new_task_shot"
+        ]
+      }
+    ],
+    "damage": [
+      {
+        "title": "Атака и последствия",
+        "x": 28,
+        "y": 25,
+        "w": 900,
+        "h": 1200,
+        "nodes": [
+          "OjPDsYr0",
+          "FNfZyWKO",
+          "H2o1CaY9",
+          "AJU7Mz3P",
+          "NoLRRWjX",
+          "WpYHelZN"
+        ]
+      },
+      {
+        "title": "Ранения",
+        "x": 948,
+        "y": 25,
+        "w": 440,
+        "h": 1200,
+        "nodes": [
+          "clZg0BDi",
+          "0IeUYjhX",
+          "HB3xxTjy"
+        ]
+      }
+    ],
+    "council": [
+      {
+        "title": "",
+        "x": 28,
+        "y": 25,
+        "w": 1880,
+        "h": 750,
+        "hidden": true
+      }
+    ],
+    "journey": [
+      {
+        "title": "Подготовка",
+        "x": 28,
+        "y": 25,
+        "w": 900,
+        "h": 1550,
+        "nodes": [
+          "IKifqDVX",
+          "SdjXV4Rg",
+          "RmbGGFNg",
+          "HGdWKAjd",
+          "cvKmzIPk",
+          "KCwmGGFa",
+          "n9SCpkSL"
+        ]
+      },
+      {
+        "title": "Испытания и сцены",
+        "x": 948,
+        "y": 25,
+        "w": 440,
+        "h": 1550,
+        "nodes": [
+          "CrCLTTSA",
+          "7szGboh9",
+          "IMmqCuD2",
+          "81NjnIbN",
+          "fBDZmNmm"
+        ]
+      },
+      {
+        "title": "Завершение и последствия",
+        "x": 1408,
+        "y": 25,
+        "w": 440,
+        "h": 1100,
+        "nodes": [
+          "WSZuQBgl",
+          "OVAag9d0",
+          "new_rest"
+        ]
+      }
+    ],
+    "fellowship": [
+      {
+        "title": "Ход Фазы Братства",
+        "x": 28,
+        "y": 25,
+        "w": 900,
+        "h": 1500,
+        "nodes": [
+          "qudBqT4T",
+          "155i8T3i",
+          "waZYle03",
+          "65oGq573",
+          "TClkt8L6"
+        ]
+      },
+      {
+        "title": "Особые возможности",
+        "x": 948,
+        "y": 25,
+        "w": 1380,
+        "h": 1500,
+        "nodes": [
+          "FQgkZRBp",
+          "e7hrgNxP",
+          "gITUE0ow",
+          "dkEvHKJy"
+        ]
+      }
+    ],
+    "keeper": [
+      {
+        "title": "",
+        "x": 28,
+        "y": 25,
+        "w": 1880,
+        "h": 950,
+        "hidden": true
+      }
+    ],
+    "shadow": [
+      {
+        "title": "Проверка и последствия",
+        "x": 28,
+        "y": 25,
+        "w": 1360,
+        "h": 450,
+        "nodes": [
+          "1jqaSwE1",
+          "i7EzUszr",
+          "ClqRxdWb"
+        ]
+      },
+      {
+        "title": "Источники Тени",
+        "x": 28,
+        "y": 500,
+        "w": 1820,
+        "h": 450,
+        "nodes": [
+          "1fjYbZYY",
+          "ThCejAWr",
+          "ohlxXHvL",
+          "Z799M3va"
+        ]
+      },
+      {
+        "title": "Путь Тени",
+        "x": 28,
+        "y": 975,
+        "w": 1360,
+        "h": 450,
+        "nodes": [
+          "MgzfvKYs",
+          "441HpfrG",
+          "T7NrYN6c"
+        ]
+      }
+    ],
+    "enemies": [
+      {
+        "title": "",
+        "x": 28,
+        "y": 25,
+        "w": 1880,
+        "h": 1450,
+        "hidden": true
+      }
+    ],
+    "treasure": [
+      {
+        "title": "Подготовка сокровищ",
+        "x": 28,
+        "y": 25,
+        "w": 1880,
+        "h": 1500,
+        "nodes": [
+          "new_treasure_prepare",
+          "FB0unXZC",
+          "mw3r9Df7",
+          "PgP7n1du",
+          "31pT5PZP",
+          "0zSpsVlu",
+          "rW3MBeZF",
+          "1IlMNimk",
+          "8tOTMXPS"
+        ]
+      },
+      {
+        "title": "Вручение клада",
+        "x": 28,
+        "y": 1550,
+        "w": 1880,
+        "h": 1000,
+        "nodes": [
+          "new_treasure_award",
+          "cbzeiMlv",
+          "JDoVzpTk",
+          "JXKKcVWe",
+          "0JdqAWQa",
+          "ikIavgoY"
+        ]
+      }
+    ],
+    "eye": [
+      {
+        "title": "",
+        "x": 28,
+        "y": 25,
+        "w": 1880,
+        "h": 1000,
+        "hidden": true
+      }
+    ]
+  }
+}
