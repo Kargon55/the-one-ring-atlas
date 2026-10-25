@@ -233,6 +233,20 @@
     "end": "arrow"
   },
   {
+    "id": "link-combat-engagement--combat-engagement-limits",
+    "a": "combat-engagement",
+    "b": "combat-engagement-limits",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
+    "id": "link-combat-engagement-limits--combat-unengaged-heroes",
+    "a": "combat-engagement-limits",
+    "b": "combat-unengaged-heroes",
+    "start": "arrow",
+    "end": "arrow"
+  },
+  {
     "id": "link-combat-close-quarters-rounds--combat-combat-actions",
     "a": "combat-close-quarters-rounds",
     "b": "combat-combat-actions",

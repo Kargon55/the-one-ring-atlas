@@ -71,6 +71,8 @@
     "combat-defensive-stance",
     "combat-rearward-stance",
     "combat-engagement",
+    "combat-engagement-limits",
+    "combat-unengaged-heroes",
     "combat-combat-actions",
     "combat-combat-tasks",
     "combat-fleeing",

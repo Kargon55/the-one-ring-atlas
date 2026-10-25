@@ -12,6 +12,8 @@
       "combat-fleeing",
       "combat-stances",
       "combat-engagement",
+      "combat-engagement-limits",
+      "combat-unengaged-heroes",
       "combat-combat-actions",
       "combat-forward-stance",
       "combat-open-stance",
@@ -116,6 +118,32 @@
       "title": "Схватка",
       "image": null,
       "pages": "96–97"
+    },
+    {
+      "id": "combat-engagement-limits",
+      "section": "combat",
+      "parts": [
+        {
+          "id": "combat-engagement-limits--text-1",
+          "text": "Обычно с героем одновременно схватываются не более трёх врагов человеческого размера или двух крупных. С врагом человеческого размера могут схватиться до трёх героев, с крупным — до шести.\n\nЕсли один враг схватился с несколькими героями, Хранитель выбирает цель его атаки."
+        }
+      ],
+      "title": "Ограничения схватки",
+      "image": null,
+      "pages": "97"
+    },
+    {
+      "id": "combat-unengaged-heroes",
+      "section": "combat",
+      "parts": [
+        {
+          "id": "combat-unengaged-heroes--text-1",
+          "text": "Если к своему ходу герой остался без противника — тот повержен или покинул бой, — он может схватиться с другим доступным врагом, свободным или уже занятым. Соблюдайте ограничения схватки."
+        }
+      ],
+      "title": "Герои вне схватки",
+      "image": null,
+      "pages": "97"
     },
     {
       "id": "combat-combat-actions",

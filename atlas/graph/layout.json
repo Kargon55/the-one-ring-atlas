@@ -216,6 +216,14 @@
       "x": 535,
       "y": 800
     },
+    "combat-engagement-limits": {
+      "x": 535,
+      "y": 1250
+    },
+    "combat-unengaged-heroes": {
+      "x": 535,
+      "y": 1600
+    },
     "combat-combat-actions": {
       "x": 995,
       "y": 800
@@ -727,6 +735,17 @@
           "combat-rally-comrades",
           "combat-protect-companion",
           "combat-prepare-shot"
+        ]
+      },
+      {
+        "title": "Ограничения схватки",
+        "x": 488,
+        "y": 1500,
+        "w": 440,
+        "h": 600,
+        "nodes": [
+          "combat-engagement-limits",
+          "combat-unengaged-heroes"
         ]
       }
     ],
